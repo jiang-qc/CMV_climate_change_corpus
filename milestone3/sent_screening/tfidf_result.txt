@@ -1,0 +1,3660 @@
+0	change	105.21
+1	climate	100.23
+2	climate change	86.55
+3	people	78.1
+4	would	67.41
+5	think	59.73
+6	dont	53.04
+7	like	49.61
+8	delta	49.58
+9	one	41.96
+10	even	36.55
+11	point	36.01
+12	thats	35.63
+13	get	35.57
+14	world	35.39
+15	also	35.15
+16	much	34.73
+17	energy	33.79
+18	us	32.78
+19	make	31.96
+20	carbon	31.07
+21	way	30.84
+22	need	30.02
+23	could	29.65
+24	believe	28.91
+25	nuclear	28.59
+26	time	28.56
+27	problem	28.42
+28	say	27.99
+29	power	27.79
+30	going	27.65
+31	im	27.59
+32	take	27.01
+33	really	26.93
+34	oil	26.83
+35	see	26.42
+36	good	26.41
+37	global	26.23
+38	know	26.14
+39	things	26.11
+40	well	25.93
+41	years	25.56
+42	still	25.26
+43	actually	24.56
+44	countries	23.94
+45	emissions	23.7
+46	view	23.64
+47	cant	22.62
+48	isnt	22.43
+49	enough	22.32
+50	many	22.28
+51	something	22.17
+52	right	21.8
+53	new	21.75
+54	use	21.73
+55	lot	21.73
+56	issue	21.45
+57	go	21.28
+58	want	21.12
+59	already	21.02
+60	sure	20.51
+61	less	20.49
+62	agree	20.39
+63	doesnt	20.07
+64	real	19.64
+65	warming	19.04
+66	solar	18.98
+67	changes	18.78
+68	edit	18.77
+69	life	18.63
+70	fossil	18.47
+71	yes	18.42
+72	made	18.39
+73	population	17.91
+74	every	17.88
+75	example	17.82
+76	science	17.41
+77	happen	17.38
+78	companies	17.26
+79	earth	17.21
+80	water	17.06
+81	argument	16.99
+82	cause	16.95
+83	green	16.91
+84	first	16.79
+85	thing	16.78
+86	money	16.56
+87	cost	16.43
+88	youre	16.33
+89	food	16.32
+90	may	16.31
+91	however	16.3
+92	human	16.19
+93	co	16.12
+94	might	15.97
+95	better	15.88
+96	mean	15.84
+97	help	15.61
+98	action	15.5
+99	work	15.46
+100	thank	15.44
+101	solution	15.34
+102	etc	15.3
+103	live	15.19
+104	thanks	15.19
+105	without	15.18
+106	theres	15.17
+107	means	15.03
+108	understand	14.95
+109	humans	14.85
+110	political	14.84
+111	everyone	14.84
+112	far	14.84
+113	effect	14.82
+114	fuels	14.82
+115	big	14.7
+116	maybe	14.65
+117	nothing	14.64
+118	source	14.53
+119	never	14.48
+120	fossil fuels	14.44
+121	give	14.43
+122	tax	14.31
+123	planet	14.28
+124	resources	14.27
+125	wrong	14.27
+126	future	14.26
+127	free	14.23
+128	anything	14.16
+129	technology	14.07
+130	current	14.06
+131	probably	14.06
+132	though	13.99
+133	year	13.96
+134	environment	13.91
+135	large	13.89
+136	least	13.77
+137	look	13.77
+138	increase	13.57
+139	wont	13.53
+140	ill	13.38
+141	around	13.33
+142	stop	13.19
+143	society	13.01
+144	impact	12.85
+145	major	12.83
+146	makes	12.82
+147	theyre	12.69
+148	talking	12.61
+149	since	12.61
+150	government	12.58
+151	end	12.51
+152	instead	12.47
+153	ive	12.36
+154	become	12.34
+155	little	12.31
+156	arent	12.25
+157	someone	12.23
+158	expensive	12.21
+159	whether	12.19
+160	wouldnt	12.17
+161	said	12.1
+162	average	12.07
+163	global warming	12.06
+164	reason	12.05
+165	long	12.02
+166	demand	12.01
+167	price	11.99
+168	saying	11.92
+169	dont think	11.88
+170	corporations	11.86
+171	great	11.85
+172	person	11.69
+173	scientific	11.66
+174	two	11.65
+175	sources	11.62
+176	important	11.62
+177	part	11.6
+178	always	11.6
+179	pretty	11.56
+180	individual	11.54
+181	likely	11.48
+182	put	11.44
+183	able	11.41
+184	bad	11.31
+185	true	11.29
+186	used	11.23
+187	seems	11.22
+188	fact	11.21
+189	question	11.17
+190	disagree	11.15
+191	getting	11.15
+192	today	11.14
+193	simply	11.13
+194	public	11.13
+195	fuel	11.11
+196	gas	11.11
+197	everything	11.08
+198	id	11.06
+199	find	11.05
+200	changing	10.94
+201	politicians	10.86
+202	another	10.85
+203	trump	10.81
+204	mind	10.78
+205	renewable	10.74
+206	read	10.74
+207	course	10.7
+208	start	10.66
+209	possible	10.66
+210	market	10.64
+211	simple	10.61
+212	times	10.59
+213	problems	10.52
+214	different	10.52
+215	case	10.49
+216	fair	10.48
+217	entire	10.47
+218	solutions	10.43
+219	deal	10.42
+220	ever	10.4
+221	rather	10.39
+222	deniers	10.37
+223	feel	10.36
+224	using	10.35
+225	due	10.3
+226	seem	10.28
+227	cars	10.27
+228	scientists	10.26
+229	amount	10.23
+230	support	10.15
+231	data	10.14
+232	away	10.14
+233	renewables	10.14
+234	huge	10.08
+235	living	10.03
+236	humanity	10.03
+237	production	10.01
+238	day	9.99
+239	million	9.98
+240	others	9.98
+241	making	9.86
+242	care	9.84
+243	points	9.81
+244	needs	9.78
+245	plants	9.77
+246	come	9.7
+247	coal	9.67
+248	try	9.65
+249	matter	9.62
+250	individuals	9.61
+251	especially	9.53
+252	best	9.48
+253	damage	9.44
+254	costs	9.42
+255	ones	9.4
+256	currently	9.4
+257	pollution	9.39
+258	reduce	9.37
+259	hard	9.35
+260	poor	9.34
+261	opinion	9.31
+262	meat	9.31
+263	level	9.29
+264	small	9.29
+265	done	9.29
+266	billion	9.29
+267	issues	9.22
+268	happening	9.15
+269	responsible	9.15
+270	changed	9.1
+271	difference	9.06
+272	extinction	9.02
+273	economic	8.97
+274	economy	8.95
+275	order	8.93
+276	place	8.9
+277	either	8.88
+278	bit	8.87
+279	land	8.87
+280	pay	8.87
+281	guess	8.81
+282	prove	8.78
+283	literally	8.75
+284	natural	8.68
+285	comes	8.66
+286	cheaper	8.66
+287	effects	8.64
+288	per	8.63
+289	lives	8.58
+290	wind	8.55
+291	environmental	8.55
+292	causing	8.51
+293	yet	8.51
+294	mass	8.47
+295	didnt	8.45
+296	significant	8.44
+297	blame	8.42
+298	last	8.4
+299	evidence	8.38
+300	kids	8.37
+301	whole	8.31
+302	left	8.27
+303	state	8.26
+304	term	8.24
+305	consumption	8.23
+306	waste	8.22
+307	country	8.19
+308	coming	8.18
+309	worse	8.17
+310	views	8.17
+311	else	8.12
+312	experiment	8.11
+313	electric	8.09
+314	article	8.08
+315	china	8.07
+316	continue	8.07
+317	keep	8.07
+318	high	8.02
+319	majority	7.98
+320	higher	7.98
+321	fight	7.96
+322	nuclear energy	7.92
+323	biden	7.92
+324	force	7.91
+325	impossible	7.91
+326	trying	7.85
+327	decades	7.85
+328	ice	7.83
+329	prices	7.73
+330	past	7.7
+331	massive	7.7
+332	taking	7.68
+333	seen	7.68
+334	argue	7.64
+335	provide	7.62
+336	collapse	7.62
+337	research	7.61
+338	developing	7.61
+339	bill	7.61
+340	drastic	7.51
+341	based	7.49
+342	rise	7.49
+343	clear	7.43
+344	back	7.43
+345	lifestyle	7.42
+346	available	7.42
+347	car	7.41
+348	close	7.4
+349	electricity	7.39
+350	taxes	7.39
+351	absolutely	7.38
+352	greenhouse	7.37
+353	levels	7.37
+354	completely	7.36
+355	alternatives	7.34
+356	serious	7.32
+357	please	7.32
+358	hope	7.3
+359	businesses	7.29
+360	lower	7.28
+361	matrix	7.25
+362	policy	7.21
+363	politics	7.17
+364	consensus	7.14
+365	control	7.12
+366	youve	7.12
+367	number	7.12
+368	children	7.12
+369	jobs	7.1
+370	worth	7.09
+371	certain	7.09
+372	threat	7.07
+373	experiments	7.05
+374	cheap	7.01
+375	eventually	7.0
+376	lots	6.97
+377	alone	6.96
+378	build	6.96
+379	rate	6.96
+380	cities	6.95
+381	entirely	6.94
+382	sense	6.89
+383	conversation	6.89
+384	die	6.88
+385	lets	6.86
+386	idea	6.85
+387	believe climate	6.84
+388	create	6.84
+389	response	6.84
+390	heres	6.81
+391	hand	6.8
+392	kind	6.76
+393	discussion	6.76
+394	switch	6.72
+395	rich	6.72
+396	basically	6.71
+397	many people	6.71
+398	caused	6.7
+399	produce	6.69
+400	anyone	6.68
+401	areas	6.65
+402	perhaps	6.63
+403	next	6.63
+404	ppm	6.62
+405	temperature	6.61
+406	definitely	6.61
+407	havent	6.58
+408	post	6.57
+409	vote	6.56
+410	thought	6.55
+411	infrastructure	6.54
+412	sort	6.54
+413	topic	6.54
+414	common	6.52
+415	often	6.5
+416	history	6.47
+417	exactly	6.47
+418	conservative	6.47
+419	convince	6.43
+420	arguments	6.4
+421	side	6.4
+422	resource	6.4
+423	reality	6.39
+424	size	6.38
+425	space	6.38
+426	half	6.38
+427	clearly	6.37
+428	act	6.36
+429	grow	6.35
+430	renewable energy	6.34
+431	economics	6.34
+432	goes	6.34
+433	show	6.34
+434	solve	6.34
+435	reducing	6.34
+436	got	6.32
+437	main	6.31
+438	study	6.27
+439	works	6.25
+440	industry	6.23
+441	buy	6.22
+442	scale	6.22
+443	viable	6.21
+444	ban	6.21
+445	weather	6.2
+446	low	6.2
+447	adapt	6.17
+448	run	6.17
+449	earths	6.14
+450	carbon tax	6.13
+451	directly	6.12
+452	model	6.11
+453	change view	6.11
+454	change real	6.1
+455	reactors	6.1
+456	actions	6.09
+457	responsibility	6.06
+458	save	6.04
+459	virtual	6.03
+460	whats	6.03
+461	fossil fuel	6.02
+462	consider	6.02
+463	built	6.02
+464	western	5.97
+465	amazon	5.96
+466	quite	5.96
+467	generations	5.95
+468	war	5.93
+469	result	5.91
+470	nuclear power	5.9
+471	vegan	5.88
+472	goal	5.83
+473	ground	5.82
+474	old	5.79
+475	denier	5.78
+476	appreciate	5.78
+477	conspiracy	5.77
+478	claim	5.77
+479	couple	5.76
+480	conclusion	5.76
+481	personal	5.76
+482	crisis	5.75
+483	facts	5.73
+484	worry	5.73
+485	worst	5.73
+486	shows	5.7
+487	single	5.68
+488	within	5.68
+489	gets	5.68
+490	millions	5.67
+491	nations	5.67
+492	impacts	5.67
+493	towards	5.66
+494	second	5.66
+495	almost	5.65
+496	deny	5.63
+497	looking	5.62
+498	growing	5.62
+499	developed	5.6
+500	concerns	5.6
+501	company	5.6
+502	moral	5.59
+503	top	5.56
+504	change denier	5.56
+505	behind	5.56
+506	products	5.53
+507	ways	5.52
+508	manmade	5.52
+509	open	5.51
+510	creating	5.5
+511	specifically	5.49
+512	affect	5.49
+513	supply	5.48
+514	change mind	5.48
+515	talk	5.47
+516	factor	5.45
+517	places	5.45
+518	certainly	5.42
+519	species	5.39
+520	social	5.38
+521	industries	5.38
+522	must	5.37
+523	upon	5.37
+524	terms	5.36
+525	house	5.36
+526	fear	5.35
+527	carbon emissions	5.35
+528	extreme	5.35
+529	nature	5.33
+530	late	5.32
+531	grid	5.32
+532	dont know	5.32
+533	conservatives	5.29
+534	buying	5.29
+535	states	5.29
+536	needed	5.28
+537	reasonable	5.28
+538	system	5.28
+539	existential	5.27
+540	value	5.26
+541	increased	5.26
+542	lead	5.25
+543	hole	5.25
+544	revolution	5.24
+545	indeed	5.23
+546	heat	5.22
+547	positive	5.21
+548	information	5.21
+549	wed	5.2
+550	proven	5.18
+551	working	5.17
+552	afford	5.17
+553	general	5.17
+554	address	5.16
+555	reduction	5.15
+556	spend	5.15
+557	rules	5.14
+558	solar wind	5.14
+559	eat	5.13
+560	reading	5.12
+561	hold	5.12
+562	growth	5.12
+563	extremely	5.1
+564	fault	5.09
+565	require	5.09
+566	consumer	5.08
+567	survive	5.07
+568	plastic	5.05
+569	easy	5.05
+570	healthcare	5.03
+571	co emissions	5.02
+572	effective	5.02
+573	investment	5.0
+574	nearly	5.0
+575	even though	5.0
+576	governments	4.99
+577	product	4.97
+578	ocean	4.97
+579	thousands	4.96
+580	lose	4.95
+581	necessary	4.95
+582	temperatures	4.95
+583	strong	4.94
+584	theory	4.94
+585	let	4.94
+586	young	4.93
+587	footprint	4.92
+588	alternative	4.91
+589	account	4.91
+590	easily	4.9
+591	logic	4.9
+592	understanding	4.89
+593	extent	4.89
+594	move	4.88
+595	reasoning	4.86
+596	willing	4.86
+597	short	4.86
+598	line	4.85
+599	mostly	4.85
+600	billions	4.83
+601	consumers	4.82
+602	concrete	4.82
+603	reasons	4.82
+604	comments	4.82
+605	extinct	4.81
+606	new deal	4.81
+607	green new	4.81
+608	opportunity	4.81
+609	green energy	4.81
+610	fields	4.81
+611	seriously	4.8
+612	articles	4.8
+613	rest	4.79
+614	poverty	4.79
+615	ago	4.78
+616	longer	4.77
+617	change deniers	4.76
+618	set	4.75
+619	fall	4.74
+620	stuff	4.73
+621	sun	4.73
+622	therefore	4.73
+623	modern	4.73
+624	group	4.73
+625	exist	4.73
+626	perfect	4.72
+627	fission	4.72
+628	flat	4.71
+629	civilization	4.71
+630	trust	4.71
+631	expect	4.71
+632	consequences	4.71
+633	share	4.7
+634	knowledge	4.7
+635	imagine	4.7
+636	multiple	4.69
+637	disasters	4.69
+638	hear	4.69
+639	convinced	4.67
+640	type	4.67
+641	fight climate	4.64
+642	industrial	4.63
+643	choose	4.62
+644	hate	4.62
+645	people believe	4.61
+646	atmosphere	4.61
+647	dont want	4.57
+648	development	4.56
+649	influence	4.55
+650	india	4.55
+651	happy	4.54
+652	although	4.54
+653	neutral	4.53
+654	transition	4.53
+655	american	4.53
+656	battery	4.53
+657	studies	4.52
+658	position	4.52
+659	significantly	4.52
+660	actual	4.51
+661	spending	4.51
+662	questions	4.5
+663	behavior	4.5
+664	gain	4.49
+665	weve	4.49
+666	valid	4.49
+667	dont see	4.48
+668	call	4.48
+669	ipcc	4.48
+670	bring	4.47
+671	activity	4.47
+672	results	4.47
+673	angry	4.45
+674	words	4.45
+675	generation	4.44
+676	shit	4.44
+677	fighting	4.43
+678	party	4.42
+679	statement	4.41
+680	republican	4.39
+681	denial	4.39
+682	consume	4.39
+683	media	4.39
+684	personally	4.37
+685	debate	4.37
+686	oil companies	4.37
+687	panels	4.36
+688	death	4.36
+689	report	4.36
+690	carbon taxes	4.35
+691	necessarily	4.35
+692	listen	4.35
+693	financial	4.35
+694	usage	4.35
+695	feel free	4.35
+696	drop	4.34
+697	peoples	4.34
+698	add	4.33
+699	globally	4.31
+700	good point	4.3
+701	city	4.29
+702	totally	4.28
+703	choice	4.28
+704	middle	4.28
+705	reply	4.28
+706	bugs	4.27
+707	love	4.27
+708	giving	4.27
+709	otherwise	4.26
+710	storage	4.26
+711	convincing	4.26
+712	physical	4.26
+713	school	4.26
+714	anymore	4.25
+715	animals	4.24
+716	award	4.22
+717	raise	4.22
+718	specific	4.21
+719	increasing	4.21
+720	net	4.21
+721	proposed	4.2
+722	greta	4.19
+723	capacity	4.19
+724	total	4.19
+725	scenario	4.19
+726	interesting	4.19
+727	plan	4.18
+728	decrease	4.18
+729	record	4.17
+730	follow	4.17
+731	man	4.17
+732	figure	4.17
+733	together	4.17
+734	cut	4.17
+735	wealth	4.16
+736	fuck	4.16
+737	longterm	4.15
+738	give delta	4.14
+739	invest	4.14
+740	turn	4.14
+741	benefit	4.14
+742	yeah	4.13
+743	biggest	4.13
+744	begin	4.12
+745	powerful	4.12
+746	believes	4.11
+747	rising	4.1
+748	progress	4.1
+749	students	4.1
+750	technologies	4.09
+751	prevent	4.04
+752	subject	4.03
+753	mitigate	4.02
+754	policies	4.01
+755	award delta	4.01
+756	efficient	4.01
+757	security	4.01
+758	building	4.01
+759	united	4.0
+760	fucked	4.0
+761	takes	3.99
+762	papers	3.99
+763	age	3.99
+764	premise	3.97
+765	correct	3.97
+766	quickly	3.97
+767	dont believe	3.96
+768	seems like	3.96
+769	obviously	3.95
+770	list	3.95
+771	concerned	3.95
+772	sea	3.94
+773	related	3.94
+774	productive	3.94
+775	push	3.93
+776	tool	3.93
+777	ability	3.93
+778	nation	3.93
+779	technological	3.93
+780	france	3.93
+781	developing countries	3.92
+782	becomes	3.92
+783	recent	3.91
+784	given	3.91
+785	moving	3.91
+786	area	3.91
+787	sustainable	3.9
+788	largely	3.9
+789	shouldnt	3.9
+790	worlds	3.89
+791	concern	3.88
+792	solution climate	3.87
+793	thinking	3.86
+794	ton	3.86
+795	funded	3.86
+796	faith	3.86
+797	century	3.85
+798	dollars	3.85
+799	field	3.84
+800	theyll	3.84
+801	economies	3.84
+802	fusion	3.82
+803	reach	3.82
+804	dont care	3.81
+805	generally	3.81
+806	op	3.81
+807	looks	3.81
+808	quantifiable	3.81
+809	claims	3.81
+810	misinformation	3.81
+811	harm	3.8
+812	concept	3.8
+813	con	3.8
+814	somewhat	3.79
+815	message	3.79
+816	realistic	3.78
+817	potentially	3.78
+818	fix	3.77
+819	ie	3.77
+820	habits	3.77
+821	answer	3.76
+822	accept	3.76
+823	highly	3.76
+824	unless	3.76
+825	things like	3.75
+826	lifetime	3.75
+827	parts	3.75
+828	acting	3.75
+829	cassava	3.74
+830	burning	3.74
+831	containers	3.74
+832	existential threat	3.73
+833	similar	3.73
+834	crops	3.72
+835	leave	3.72
+836	profitable	3.7
+837	west	3.7
+838	avoid	3.7
+839	truly	3.7
+840	hundreds	3.69
+841	difficult	3.68
+842	oceans	3.68
+843	driving	3.67
+844	factors	3.66
+845	graphics	3.65
+846	running	3.65
+847	super	3.65
+848	degrees	3.65
+849	happens	3.64
+850	people dont	3.64
+851	two things	3.64
+852	actively	3.64
+853	assuming	3.63
+854	percentage	3.63
+855	zero	3.63
+856	respond	3.63
+857	event	3.62
+858	liberals	3.62
+859	producing	3.62
+860	anyway	3.62
+861	someone else	3.62
+862	negative	3.61
+863	regardless	3.6
+864	kid	3.6
+865	including	3.6
+866	evil	3.6
+867	famine	3.59
+868	potential	3.59
+869	people would	3.59
+870	eating	3.58
+871	forward	3.58
+872	suddenly	3.58
+873	local	3.56
+874	vs	3.56
+875	agenda	3.55
+876	light	3.55
+877	found	3.55
+878	ozone	3.55
+879	fine	3.55
+880	helping	3.55
+881	return	3.54
+882	electric cars	3.54
+883	usually	3.53
+884	helps	3.52
+885	numbers	3.52
+886	killing	3.51
+887	refugees	3.51
+888	option	3.51
+889	selfish	3.51
+890	destroy	3.51
+891	measures	3.51
+892	biking	3.51
+893	internet	3.49
+894	equivalent	3.49
+895	solar panels	3.49
+896	profit	3.49
+897	pass	3.48
+898	harmful	3.48
+899	family	3.48
+900	shift	3.48
+901	combat	3.48
+902	solid	3.46
+903	lot people	3.46
+904	voting	3.46
+905	mass extinction	3.46
+906	suffer	3.46
+907	explanation	3.43
+908	thus	3.43
+909	unlikely	3.43
+910	tell	3.42
+911	nobody	3.42
+912	north	3.42
+913	form	3.42
+914	attention	3.42
+915	winter	3.42
+916	minority	3.42
+917	compared	3.41
+918	climate science	3.41
+919	credit	3.4
+920	president	3.4
+921	uninhabitable	3.39
+922	rates	3.39
+923	contributing	3.39
+924	increasingly	3.38
+925	investing	3.38
+926	air	3.38
+927	dirty	3.36
+928	itll	3.36
+929	raising	3.36
+930	container	3.35
+931	gasses	3.34
+932	effort	3.34
+933	eg	3.33
+934	producer	3.33
+935	resistance	3.33
+936	lol	3.33
+937	interests	3.32
+938	particularly	3.32
+939	free market	3.32
+940	damaging	3.32
+941	americans	3.31
+942	carbon neutral	3.31
+943	liberal	3.31
+944	future generations	3.3
+945	constant	3.3
+946	wars	3.29
+947	people like	3.29
+948	would need	3.29
+949	experience	3.28
+950	burned	3.28
+951	soon	3.28
+952	happened	3.28
+953	range	3.27
+954	powers	3.27
+955	ceos	3.27
+956	ecological	3.26
+957	kill	3.26
+958	possibly	3.25
+959	skeptics	3.25
+960	face	3.25
+961	required	3.25
+962	hoax	3.24
+963	hit	3.24
+964	plenty	3.23
+965	polluting	3.23
+966	seeing	3.23
+967	income	3.22
+968	benefits	3.22
+969	along	3.22
+970	road	3.22
+971	ignoring	3.22
+972	standard	3.21
+973	eyes	3.21
+974	plant	3.2
+975	batteries	3.2
+976	items	3.2
+977	lost	3.19
+978	degree	3.18
+979	apocalypse	3.18
+980	venus	3.18
+981	costly	3.17
+982	movement	3.17
+983	environmentally	3.17
+984	gat	3.17
+985	lack	3.16
+986	politically	3.16
+987	method	3.16
+988	ecosystem	3.16
+989	one thing	3.16
+990	loss	3.15
+991	every single	3.15
+992	transportation	3.15
+993	centuries	3.15
+994	safety	3.14
+995	speaking	3.14
+996	community	3.13
+997	estimates	3.13
+998	technically	3.13
+999	mess	3.12
+1000	construction	3.12
+1001	habitable	3.12
+1002	systems	3.11
+1003	reserves	3.1
+1004	optimistic	3.1
+1005	butcher	3.1
+1006	hypocrites	3.1
+1007	story	3.1
+1008	ask	3.1
+1009	capture	3.1
+1010	slightly	3.1
+1011	ok	3.1
+1012	events	3.1
+1013	reliable	3.1
+1014	suffering	3.09
+1015	mention	3.09
+1016	underground	3.09
+1017	deforestation	3.09
+1018	ending	3.08
+1019	south	3.08
+1020	existing	3.08
+1021	naive	3.08
+1022	instance	3.07
+1023	expected	3.07
+1024	latter	3.07
+1025	atmospheric	3.07
+1026	questions concerns	3.06
+1027	increases	3.06
+1028	inevitably	3.06
+1029	going get	3.06
+1030	severe	3.06
+1031	accurate	3.05
+1032	board	3.05
+1033	requires	3.05
+1034	shut	3.05
+1035	infinite	3.05
+1036	bomb	3.05
+1037	nye	3.04
+1038	around world	3.04
+1039	ecosystems	3.04
+1040	economical	3.03
+1041	experts	3.03
+1042	forcing	3.02
+1043	tend	3.02
+1044	africa	3.02
+1045	hurt	3.02
+1046	democrats	3.02
+1047	portion	3.01
+1048	conflict	3.01
+1049	capitalism	3.01
+1050	long term	3.01
+1051	mainly	3.0
+1052	think would	3.0
+1053	pressure	3.0
+1054	discussing	2.99
+1055	everyday	2.99
+1056	link	2.99
+1057	happy cmving	2.97
+1058	cmving	2.97
+1059	assume	2.97
+1060	achieve	2.97
+1061	contribute	2.97
+1062	explain	2.97
+1063	united states	2.96
+1064	smaller	2.96
+1065	sounds	2.96
+1066	enjoy	2.95
+1067	worldwide	2.95
+1068	laws	2.95
+1069	compare	2.95
+1070	waffles	2.94
+1071	according	2.94
+1072	incentive	2.94
+1073	acknowledge	2.94
+1074	taken	2.94
+1075	feel like	2.93
+1076	options	2.93
+1077	birth	2.93
+1078	people live	2.93
+1079	diet	2.93
+1080	honestly	2.92
+1081	easier	2.92
+1082	people living	2.91
+1083	covid	2.91
+1084	dead	2.91
+1085	mentioned	2.9
+1086	key	2.9
+1087	leads	2.9
+1088	news	2.9
+1089	dont understand	2.9
+1090	incentives	2.9
+1091	wing	2.9
+1092	uk	2.9
+1093	decade	2.89
+1094	three	2.89
+1095	clean	2.89
+1096	bigger	2.89
+1097	moderators	2.89
+1098	footnote	2.89
+1099	footnote moderators	2.89
+1100	situation	2.88
+1101	gave	2.88
+1102	al	2.88
+1103	created	2.88
+1104	hours	2.88
+1105	emission	2.88
+1106	whatever	2.87
+1107	examples	2.87
+1108	take action	2.87
+1109	maintain	2.87
+1110	activists	2.87
+1111	gives	2.87
+1112	countries like	2.86
+1113	regarding	2.86
+1114	says	2.86
+1115	usa	2.86
+1116	homes	2.85
+1117	harder	2.85
+1118	animal	2.85
+1119	decisions	2.85
+1120	overall	2.84
+1121	flying	2.84
+1122	wasnt	2.84
+1123	gravity	2.84
+1124	beliefs	2.83
+1125	larger	2.83
+1126	stupid	2.83
+1127	drastically	2.83
+1128	choices	2.82
+1129	change manmade	2.82
+1130	interest	2.82
+1131	beyond	2.82
+1132	physical world	2.82
+1133	furthermore	2.82
+1134	silly	2.81
+1135	name	2.81
+1136	stopped	2.81
+1137	passed	2.81
+1138	apply	2.81
+1139	store	2.8
+1140	risk	2.8
+1141	dont change	2.8
+1142	nice	2.79
+1143	experimentally	2.79
+1144	status	2.79
+1145	realize	2.79
+1146	revenue	2.79
+1147	break	2.78
+1148	engineer	2.78
+1149	warmer	2.78
+1150	remains	2.78
+1151	combat climate	2.78
+1152	vehicles	2.78
+1153	rainforest	2.78
+1154	wait	2.78
+1155	counter	2.78
+1156	going happen	2.78
+1157	projections	2.78
+1158	access	2.77
+1159	notice	2.77
+1160	deliberately	2.77
+1161	theyd	2.77
+1162	immediate	2.76
+1163	meaningfully	2.76
+1164	europe	2.76
+1165	think world	2.76
+1166	lifestyles	2.76
+1167	particular	2.76
+1168	national	2.76
+1169	greenhouse gas	2.75
+1170	putting	2.75
+1171	peak	2.74
+1172	home	2.74
+1173	effects climate	2.74
+1174	fundamentally	2.74
+1175	experimentation	2.73
+1176	rights	2.73
+1177	pretty much	2.73
+1178	sides	2.73
+1179	near	2.73
+1180	links	2.73
+1181	nuclear reactors	2.72
+1182	helpful	2.72
+1183	surface	2.72
+1184	graph	2.72
+1185	white	2.71
+1186	people say	2.71
+1187	cycle	2.7
+1188	ignorant	2.7
+1189	started	2.7
+1190	educated	2.69
+1191	dont need	2.69
+1192	third	2.69
+1193	surely	2.69
+1194	uses	2.69
+1195	several	2.69
+1196	include	2.69
+1197	id argue	2.69
+1198	cold	2.68
+1199	game	2.68
+1200	gdp	2.67
+1201	release	2.67
+1202	western countries	2.67
+1203	oh	2.67
+1204	evs	2.67
+1205	greater	2.67
+1206	hyperbole	2.67
+1207	develop	2.66
+1208	gnd	2.65
+1209	conditions	2.65
+1210	ive seen	2.65
+1211	across	2.65
+1212	considered	2.65
+1213	highest	2.65
+1214	broken	2.65
+1215	ensure	2.64
+1216	human civilization	2.64
+1217	fundamental	2.64
+1218	per year	2.64
+1219	would make	2.64
+1220	estimate	2.64
+1221	comment	2.64
+1222	differences	2.63
+1223	chemicals	2.63
+1224	tiny	2.63
+1225	fully	2.62
+1226	legislation	2.62
+1227	power plants	2.61
+1228	trillion	2.61
+1229	reactor	2.61
+1230	thunberg	2.61
+1231	major corporations	2.61
+1232	fit	2.61
+1233	business	2.61
+1234	recently	2.6
+1235	assumption	2.6
+1236	canada	2.6
+1237	deny climate	2.59
+1238	hot	2.59
+1239	critical	2.59
+1240	fans	2.59
+1241	mistake	2.59
+1242	improving	2.59
+1243	sound	2.58
+1244	took	2.58
+1245	taxing	2.58
+1246	firstly	2.58
+1247	causes	2.57
+1248	flooding	2.57
+1249	slavery	2.57
+1250	severity	2.57
+1251	fast	2.56
+1252	still think	2.56
+1253	produces	2.56
+1254	includes	2.56
+1255	recycled	2.56
+1256	types	2.56
+1257	rely	2.56
+1258	radiation	2.56
+1259	essentially	2.56
+1260	america	2.55
+1261	forest	2.55
+1262	terrible	2.55
+1263	destroying	2.55
+1264	write	2.55
+1265	sorry	2.55
+1266	code	2.55
+1267	forests	2.55
+1268	despite	2.55
+1269	im sure	2.54
+1270	hypocritical	2.54
+1271	banning	2.54
+1272	pancakes	2.54
+1273	campaign	2.53
+1274	resulting	2.53
+1275	con column	2.53
+1276	column	2.53
+1277	essential	2.53
+1278	associated	2.53
+1279	context	2.53
+1280	societal	2.53
+1281	cases	2.53
+1282	repeat	2.53
+1283	decreasing	2.53
+1284	climatologists	2.52
+1285	office	2.52
+1286	human life	2.52
+1287	couldnt	2.52
+1288	correlation	2.52
+1289	ice age	2.51
+1290	wealthy	2.51
+1291	cool	2.51
+1292	transport	2.51
+1293	job	2.51
+1294	brought	2.51
+1295	jump	2.51
+1296	slow	2.51
+1297	rain	2.5
+1298	funding	2.5
+1299	spread	2.5
+1300	applies	2.5
+1301	becoming	2.5
+1302	worked	2.49
+1303	transit	2.49
+1304	public transit	2.49
+1305	hill	2.49
+1306	gases	2.49
+1307	irrational	2.49
+1308	paper	2.48
+1309	linear	2.48
+1310	use fossil	2.48
+1311	remember	2.47
+1312	perspective	2.47
+1313	produced	2.47
+1314	point return	2.46
+1315	immediately	2.46
+1316	involved	2.46
+1317	fixed	2.46
+1318	switching	2.46
+1319	moment	2.46
+1320	thats true	2.46
+1321	dont get	2.46
+1322	sell	2.45
+1323	guy	2.45
+1324	exists	2.45
+1325	agriculture	2.45
+1326	opposition	2.45
+1327	myth	2.45
+1328	retirement	2.45
+1329	naturally	2.45
+1330	bringing	2.45
+1331	burn	2.45
+1332	telling	2.45
+1333	clarify	2.45
+1334	forced	2.44
+1335	disaster	2.44
+1336	al gore	2.43
+1337	gore	2.43
+1338	proof	2.43
+1339	solved	2.43
+1340	message us	2.43
+1341	us httpwwwredditcommessagecomposetorchangemyview	2.43
+1342	httpwwwredditcommessagecomposetorchangemyview	2.43
+1343	relatively	2.42
+1344	complete	2.42
+1345	toxic	2.42
+1346	innovation	2.42
+1347	doubt	2.42
+1348	later	2.42
+1349	carbon capture	2.42
+1350	scenarios	2.42
+1351	wish	2.41
+1352	ebooks	2.41
+1353	faster	2.41
+1354	arguing	2.41
+1355	limit	2.41
+1356	dont really	2.41
+1357	celebrities	2.41
+1358	scary	2.41
+1359	pumps	2.4
+1360	subsidize	2.4
+1361	original	2.4
+1362	variables	2.4
+1363	warming climate	2.4
+1364	appear	2.4
+1365	rapidly	2.39
+1366	days	2.39
+1367	maintenance	2.39
+1368	farms	2.39
+1369	quo	2.39
+1370	status quo	2.39
+1371	would also	2.39
+1372	would like	2.39
+1373	inequality	2.39
+1374	leaves	2.39
+1375	absolute	2.38
+1376	walk	2.38
+1377	theories	2.38
+1378	black	2.38
+1379	models	2.38
+1380	good example	2.38
+1381	decision	2.38
+1382	added	2.37
+1383	current climate	2.37
+1384	spreading	2.36
+1385	education	2.36
+1386	following	2.36
+1387	selfdriving	2.35
+1388	rapid	2.35
+1389	fire	2.35
+1390	comparison	2.35
+1391	european	2.35
+1392	pick	2.34
+1393	neutrality	2.34
+1394	matters	2.34
+1395	except	2.34
+1396	island	2.34
+1397	conversations	2.34
+1398	lately	2.33
+1399	rare	2.33
+1400	falling	2.33
+1401	tldr	2.33
+1402	fair point	2.33
+1403	excuse	2.33
+1404	replace	2.32
+1405	votes	2.32
+1406	double	2.32
+1407	definition	2.32
+1408	regions	2.32
+1409	title	2.31
+1410	minds	2.31
+1411	pointing	2.31
+1412	remind	2.31
+1413	ethical	2.31
+1414	dioxide	2.31
+1415	carbon dioxide	2.31
+1416	airplanes	2.3
+1417	change would	2.3
+1418	economically	2.3
+1419	differently	2.3
+1420	sea levels	2.3
+1421	scientifically	2.3
+1422	pods	2.3
+1423	supposed	2.29
+1424	theres also	2.29
+1425	platform	2.28
+1426	image	2.28
+1427	didnt think	2.28
+1428	care environment	2.28
+1429	sacrifices	2.28
+1430	take place	2.28
+1431	industrial revolution	2.28
+1432	affected	2.28
+1433	opportunity costs	2.28
+1434	stand	2.28
+1435	standard living	2.27
+1436	law	2.27
+1437	carbon footprint	2.27
+1438	secondly	2.27
+1439	megarich	2.27
+1440	practices	2.27
+1441	wanted	2.26
+1442	limited	2.26
+1443	believing	2.26
+1444	block	2.25
+1445	landscape	2.25
+1446	called	2.25
+1447	consequence	2.25
+1448	lobbyists	2.25
+1449	farmland	2.25
+1450	copper	2.25
+1451	child	2.25
+1452	aware	2.24
+1453	changing view	2.24
+1454	constantly	2.23
+1455	approach	2.23
+1456	killed	2.23
+1457	discuss	2.23
+1458	tech	2.23
+1459	headed	2.23
+1460	narrative	2.22
+1461	perfectly	2.22
+1462	vast	2.22
+1463	inefficient	2.22
+1464	markets	2.22
+1465	standards	2.22
+1466	drive	2.22
+1467	awareness	2.21
+1468	intelligent	2.21
+1469	see climate	2.21
+1470	efforts	2.21
+1471	step	2.21
+1472	barrel	2.21
+1473	un	2.2
+1474	written	2.2
+1475	would take	2.2
+1476	houses	2.2
+1477	missing	2.2
+1478	predictions	2.19
+1479	talks	2.19
+1480	crash	2.19
+1481	intensive	2.19
+1482	doesnt make	2.19
+1483	repeated	2.19
+1484	corn	2.19
+1485	solar activity	2.19
+1486	additional	2.18
+1487	go extinct	2.18
+1488	suppose	2.18
+1489	meet	2.18
+1490	elected	2.18
+1491	meaningful	2.18
+1492	admit	2.18
+1493	travel	2.17
+1494	pushing	2.17
+1495	first world	2.17
+1496	shortterm	2.17
+1497	people wouldnt	2.17
+1498	battery technology	2.17
+1499	reasonable assumption	2.17
+1500	early	2.17
+1501	outcome	2.16
+1502	locations	2.16
+1503	corporate	2.16
+1504	reddit	2.16
+1505	earth flat	2.15
+1506	feed	2.15
+1507	property	2.15
+1508	crop	2.15
+1509	rarely	2.15
+1510	besides	2.15
+1511	truth	2.15
+1512	implemented	2.15
+1513	dishonest	2.15
+1514	bet	2.15
+1515	became	2.15
+1516	systemic	2.14
+1517	direct	2.14
+1518	bias	2.14
+1519	say people	2.14
+1520	reflection	2.14
+1521	complex	2.14
+1522	reduced	2.14
+1523	every year	2.13
+1524	years ago	2.13
+1525	valid point	2.13
+1526	meanwhile	2.12
+1527	people actually	2.12
+1528	via	2.12
+1529	obvious	2.12
+1530	fill	2.12
+1531	packaging	2.12
+1532	ultimately	2.12
+1533	none	2.12
+1534	matrix would	2.11
+1535	bipartisan	2.11
+1536	spent	2.11
+1537	think really	2.11
+1538	luxury	2.11
+1539	unsustainable	2.11
+1540	private	2.11
+1541	transitioning	2.1
+1542	focus	2.1
+1543	biosphere	2.1
+1544	round	2.1
+1545	biden trump	2.1
+1546	fraction	2.1
+1547	view changed	2.1
+1548	accidents	2.09
+1549	families	2.09
+1550	bill nye	2.09
+1551	would say	2.09
+1552	adopting	2.09
+1553	world countries	2.09
+1554	incorrect	2.09
+1555	finite	2.08
+1556	experimentally prove	2.08
+1557	hes	2.08
+1558	scientific method	2.08
+1559	something like	2.08
+1560	corporation	2.08
+1561	remove	2.07
+1562	conclusions	2.07
+1563	shes	2.07
+1564	antarctica	2.06
+1565	branding	2.06
+1566	lines	2.06
+1567	detail	2.06
+1568	change denial	2.06
+1569	believe earth	2.06
+1570	people arent	2.05
+1571	google	2.05
+1572	change without	2.05
+1573	oil company	2.05
+1574	capitalist	2.05
+1575	hoping	2.04
+1576	knows	2.04
+1577	aspects	2.04
+1578	nuclear plants	2.04
+1579	th	2.04
+1580	clarification	2.04
+1581	societal collapse	2.04
+1582	extract	2.04
+1583	power source	2.04
+1584	path	2.04
+1585	largest	2.03
+1586	finally	2.03
+1587	id like	2.03
+1588	first place	2.03
+1589	piece	2.03
+1590	contrary	2.03
+1591	decreases	2.03
+1592	one person	2.02
+1593	fewer	2.02
+1594	billions people	2.02
+1595	phrase	2.02
+1596	fake	2.02
+1597	decreased	2.02
+1598	ill give	2.02
+1599	would still	2.02
+1600	minority disagree	2.01
+1601	numerous	2.01
+1602	review	2.01
+1603	im going	2.01
+1604	drastic change	2.01
+1605	brand	2.0
+1606	shortages	2.0
+1607	improved	2.0
+1608	change isnt	2.0
+1609	inevitable	2.0
+1610	recommended	2.0
+1611	cares	2.0
+1612	existential crisis	2.0
+1613	anybody	1.99
+1614	health	1.99
+1615	thats fair	1.99
+1616	steps	1.99
+1617	handle	1.99
+1618	struggle	1.99
+1619	democratic	1.99
+1620	scientific community	1.99
+1621	grow food	1.99
+1622	emit	1.99
+1623	protests	1.99
+1624	measurements	1.99
+1625	projects	1.99
+1626	impacts climate	1.98
+1627	heavily	1.98
+1628	error	1.98
+1629	neighbors	1.98
+1630	challenge	1.98
+1631	luxuries	1.98
+1632	continuing	1.98
+1633	cry	1.98
+1634	commons	1.98
+1635	remotely	1.98
+1636	electric vehicles	1.98
+1637	around ppm	1.98
+1638	globe	1.97
+1639	tragedy	1.97
+1640	table	1.97
+1641	siberia	1.97
+1642	react	1.97
+1643	regulation	1.97
+1644	zombie	1.97
+1645	action climate	1.96
+1646	reached	1.96
+1647	driven	1.96
+1648	reject	1.96
+1649	groups	1.96
+1650	various	1.96
+1651	considering	1.96
+1652	roads	1.96
+1653	everybody	1.95
+1654	partly	1.95
+1655	equal	1.95
+1656	urgent	1.95
+1657	went	1.95
+1658	functioning	1.95
+1659	bunch	1.95
+1660	preventing	1.95
+1661	natural gas	1.95
+1662	recover	1.94
+1663	listening	1.94
+1664	focused	1.94
+1665	republicans	1.94
+1666	anthropogenic	1.94
+1667	period	1.94
+1668	greenhouse gasses	1.94
+1669	god	1.94
+1670	change happening	1.93
+1671	met	1.93
+1672	moral thing	1.93
+1673	past years	1.93
+1674	ideas	1.93
+1675	popular	1.93
+1676	bed	1.93
+1677	bed rest	1.93
+1678	threatens	1.93
+1679	election	1.93
+1680	man made	1.93
+1681	familiar	1.92
+1682	recycle	1.92
+1683	feeling	1.92
+1684	operations	1.92
+1685	manage	1.92
+1686	hasnt	1.92
+1687	reducing emissions	1.92
+1688	theres nothing	1.92
+1689	counterproductive	1.92
+1690	front	1.92
+1691	pointed	1.91
+1692	one hand	1.91
+1693	insane	1.91
+1694	fallacy	1.91
+1695	international	1.91
+1696	purpose	1.91
+1697	hour	1.91
+1698	statistics	1.91
+1699	fair say	1.9
+1700	illegal	1.9
+1701	saudi	1.9
+1702	believe people	1.9
+1703	skeptical	1.9
+1704	estimated	1.9
+1705	fascism	1.9
+1706	limiting	1.9
+1707	french	1.9
+1708	wanting	1.9
+1709	dying	1.9
+1710	individually	1.89
+1711	hell	1.89
+1712	opposite	1.89
+1713	bernie	1.89
+1714	think youre	1.89
+1715	makes sense	1.89
+1716	climate scientists	1.89
+1717	millions people	1.89
+1718	northern	1.89
+1719	rd	1.88
+1720	banking	1.88
+1721	feedback	1.88
+1722	wants	1.88
+1723	next years	1.88
+1724	like remind	1.88
+1725	wed like	1.88
+1726	couple things	1.88
+1727	remind couple	1.88
+1728	year year	1.88
+1729	electric car	1.88
+1730	materials	1.88
+1731	friendly	1.88
+1732	violence	1.88
+1733	melting	1.87
+1734	population growth	1.87
+1735	chance	1.87
+1736	adults	1.87
+1737	salary	1.87
+1738	cynical	1.86
+1739	opportunity cost	1.86
+1740	burden	1.86
+1741	somehow	1.86
+1742	sit	1.86
+1743	sent	1.86
+1744	saw	1.86
+1745	carbon neutrality	1.86
+1746	sometimes	1.86
+1747	lies	1.85
+1748	vast majority	1.85
+1749	planets	1.85
+1750	developing world	1.85
+1751	crises	1.85
+1752	aside	1.85
+1753	climate changing	1.85
+1754	everyday people	1.85
+1755	rational	1.85
+1756	incredibly	1.85
+1757	go back	1.84
+1758	unlike	1.84
+1759	budget	1.84
+1760	catch	1.84
+1761	specialist	1.84
+1762	greta thunberg	1.84
+1763	shame	1.84
+1764	consistent	1.84
+1765	lower prices	1.84
+1766	quarks	1.84
+1767	na	1.84
+1768	utility	1.83
+1769	mankind	1.83
+1770	failed	1.83
+1771	belief	1.83
+1772	grain	1.83
+1773	global emissions	1.83
+1774	fried	1.83
+1775	save planet	1.83
+1776	unprecedented	1.83
+1777	depends	1.83
+1778	hurricane	1.83
+1779	present	1.83
+1780	primarily	1.82
+1781	showing	1.82
+1782	real data	1.82
+1783	hopefully	1.82
+1784	thrive	1.82
+1785	landfills	1.82
+1786	money retirement	1.82
+1787	stop climate	1.82
+1788	countrys	1.81
+1789	mathematical	1.81
+1790	achieving	1.81
+1791	enacted	1.81
+1792	farming	1.81
+1793	survey	1.81
+1794	affects	1.81
+1795	lowest	1.81
+1796	meeting	1.81
+1797	surprised	1.81
+1798	protest	1.81
+1799	intrastate	1.8
+1800	migration	1.8
+1801	youd	1.8
+1802	measurement	1.8
+1803	glad	1.8
+1804	removing	1.8
+1805	realistically	1.8
+1806	dont take	1.8
+1807	change wouldnt	1.8
+1808	protect	1.8
+1809	court	1.8
+1810	people think	1.8
+1811	describing	1.79
+1812	check	1.79
+1813	say climate	1.79
+1814	indirectly	1.79
+1815	known	1.79
+1816	initially	1.79
+1817	sufficient	1.79
+1818	crux	1.79
+1819	first time	1.79
+1820	plague	1.79
+1821	co levels	1.79
+1822	posted	1.79
+1823	plus	1.79
+1824	responses	1.79
+1825	damage climate	1.78
+1826	learned	1.78
+1827	would think	1.78
+1828	lots people	1.78
+1829	tomorrow	1.78
+1830	ignore	1.78
+1831	apocalyptic	1.78
+1832	boom	1.78
+1833	developed world	1.78
+1834	excess	1.78
+1835	ever get	1.77
+1836	unrealistic	1.77
+1837	fighting climate	1.77
+1838	decline	1.77
+1839	notion	1.77
+1840	read rules	1.77
+1841	httpwwwredditcomrchangemyviewwikirules	1.77
+1842	rules httpwwwredditcomrchangemyviewwikirules	1.77
+1843	please read	1.77
+1844	firstly please	1.77
+1845	lifestyle changes	1.77
+1846	tons	1.77
+1847	cope	1.77
+1848	offer	1.77
+1849	nuclear waste	1.77
+1850	challenging	1.77
+1851	respect	1.76
+1852	scarcity	1.76
+1853	inhospitable	1.76
+1854	advances	1.76
+1855	friend	1.76
+1856	savings	1.76
+1857	projected	1.76
+1858	morally	1.76
+1859	change wont	1.76
+1860	precious	1.76
+1861	merely	1.76
+1862	expertise	1.76
+1863	born	1.75
+1864	gotten	1.75
+1865	change issue	1.75
+1866	scientific consensus	1.75
+1867	whereas	1.75
+1868	starts	1.75
+1869	anywhere	1.75
+1870	throw	1.75
+1871	joe	1.75
+1872	scientists say	1.75
+1873	concentrations	1.75
+1874	saying climate	1.75
+1875	heavy	1.75
+1876	musk	1.75
+1877	consumer habits	1.75
+1878	human extinction	1.75
+1879	bandaid	1.74
+1880	adopt	1.74
+1881	worrying	1.74
+1882	hands	1.74
+1883	saving	1.74
+1884	movements	1.74
+1885	stops	1.74
+1886	would lose	1.74
+1887	exact	1.74
+1888	socialism	1.74
+1889	activism	1.74
+1890	manufacturing	1.74
+1891	bought	1.74
+1892	right free	1.73
+1893	free speech	1.73
+1894	speech	1.73
+1895	melt	1.73
+1896	real life	1.73
+1897	far better	1.73
+1898	spend money	1.73
+1899	cascade	1.73
+1900	entirely fault	1.73
+1901	ridiculous	1.73
+1902	refer	1.73
+1903	energy production	1.73
+1904	chances	1.72
+1905	burger	1.72
+1906	explained	1.72
+1907	selfdriving cars	1.72
+1908	humanity adapt	1.72
+1909	spite	1.72
+1910	political issue	1.72
+1911	lobbying	1.72
+1912	repeatable	1.72
+1913	like trump	1.72
+1914	offset	1.72
+1915	ignorance	1.72
+1916	freeway	1.72
+1917	perceived	1.71
+1918	st	1.71
+1919	extinctions	1.71
+1920	overcome	1.71
+1921	improve	1.71
+1922	afraid	1.71
+1923	phenomena	1.71
+1924	peer	1.71
+1925	emergency	1.71
+1926	watch	1.71
+1927	sample	1.71
+1928	decide	1.71
+1929	outcomes	1.71
+1930	goals	1.71
+1931	dangerous	1.71
+1932	change well	1.7
+1933	sentiment	1.7
+1934	sudden	1.7
+1935	million humans	1.7
+1936	unnecessary	1.7
+1937	much higher	1.7
+1938	would mean	1.7
+1939	among	1.7
+1940	fex	1.7
+1941	scared	1.7
+1942	virtual world	1.7
+1943	administration	1.7
+1944	annually	1.69
+1945	hole ozone	1.69
+1946	safe	1.69
+1947	generate	1.69
+1948	mile	1.69
+1949	sources like	1.69
+1950	youll	1.69
+1951	chernobyl	1.69
+1952	desert	1.69
+1953	number people	1.69
+1954	released	1.69
+1955	developed countries	1.69
+1956	bare	1.69
+1957	summer	1.69
+1958	flat earthers	1.69
+1959	earthers	1.69
+1960	tackle	1.69
+1961	downvotes dont	1.69
+1962	downvotes	1.69
+1963	change views	1.69
+1964	httpwwwredditcomrchangemyviewwikiguidelineswikiupvotingfdownvoting	1.69
+1965	views httpwwwredditcomrchangemyviewwikiguidelineswikiupvotingfdownvoting	1.69
+1966	speaking downvotes	1.69
+1967	successful	1.69
+1968	pays	1.69
+1969	medical	1.69
+1970	oxygen	1.69
+1971	producers	1.68
+1972	calls	1.68
+1973	linked	1.68
+1974	billion people	1.68
+1975	criticism	1.68
+1976	predicted	1.68
+1977	right wing	1.68
+1978	reverse	1.68
+1979	sensible	1.68
+1980	recycling	1.68
+1981	worker	1.68
+1982	calling	1.68
+1983	adoption	1.68
+1984	ive read	1.68
+1985	dollar	1.68
+1986	deltas	1.68
+1987	think narrow	1.68
+1988	narrow view	1.68
+1989	narrow	1.68
+1990	would argue	1.67
+1991	practically	1.67
+1992	daily	1.67
+1993	due climate	1.67
+1994	improvement	1.67
+1995	advocate	1.67
+1996	dont like	1.67
+1997	oil fields	1.67
+1998	legislative	1.67
+1999	supporting	1.67
+2000	false	1.67
+2001	cant get	1.67
+2002	guarded	1.66
+2003	whose	1.66
+2004	learn	1.66
+2005	drought	1.66
+2006	meant	1.66
+2007	onto	1.66
+2008	planning	1.66
+2009	person believes	1.66
+2010	see point	1.66
+2011	ai	1.66
+2012	dams	1.66
+2013	central	1.66
+2014	tools	1.66
+2015	pessimistic	1.66
+2016	marginal	1.65
+2017	worried	1.65
+2018	little bit	1.65
+2019	amount carbon	1.65
+2020	bc	1.65
+2021	trillion dollars	1.65
+2022	previously	1.65
+2023	dont give	1.65
+2024	populations	1.65
+2025	whos	1.64
+2026	variable	1.64
+2027	im saying	1.64
+2028	extra	1.64
+2029	germany	1.64
+2030	expanding	1.64
+2031	geoengineering	1.64
+2032	attack	1.64
+2033	reductions	1.64
+2034	resource usage	1.64
+2035	stick	1.63
+2036	paid	1.63
+2037	metric	1.63
+2038	output	1.63
+2039	still believe	1.63
+2040	solar power	1.63
+2041	unfair	1.63
+2042	validity	1.63
+2043	financially	1.63
+2044	word	1.63
+2045	going die	1.63
+2046	even worse	1.63
+2047	cheap solar	1.62
+2048	stopping	1.62
+2049	change still	1.62
+2050	regard	1.62
+2051	rich major	1.62
+2052	fuel companies	1.62
+2053	youve made	1.62
+2054	partially	1.62
+2055	bycicle	1.62
+2056	leading	1.62
+2057	quantify	1.62
+2058	supports	1.62
+2059	wide	1.62
+2060	chooses	1.62
+2061	advocates	1.62
+2062	middle east	1.62
+2063	east	1.62
+2064	paragraph	1.62
+2065	define	1.62
+2066	would give	1.61
+2067	opening	1.61
+2068	practical	1.61
+2069	shared	1.61
+2070	throughout	1.61
+2071	could done	1.61
+2072	basic	1.61
+2073	weve seen	1.61
+2074	ignores	1.61
+2075	relationship	1.61
+2076	hypocrite	1.61
+2077	slowing	1.6
+2078	counteract	1.6
+2079	talking climate	1.6
+2080	please help	1.6
+2081	give credit	1.6
+2082	ppl	1.6
+2083	claim climate	1.6
+2084	really appreciate	1.6
+2085	pressing	1.6
+2086	interested	1.6
+2087	misinformed	1.6
+2088	believes climate	1.6
+2089	coastal	1.6
+2090	parties	1.59
+2091	true extent	1.59
+2092	bike	1.59
+2093	wonder	1.59
+2094	shifts	1.59
+2095	week	1.59
+2096	billion years	1.59
+2097	deaths	1.59
+2098	issue climate	1.59
+2099	quality	1.59
+2100	massively	1.59
+2101	case scenario	1.59
+2102	think people	1.59
+2103	percent	1.59
+2104	california	1.59
+2105	chair	1.58
+2106	get worse	1.58
+2107	reflect	1.58
+2108	short term	1.58
+2109	mitigation	1.58
+2110	came	1.58
+2111	migrate	1.58
+2112	famous	1.58
+2113	advocating	1.58
+2114	told	1.58
+2115	environmentalist	1.58
+2116	fairly	1.58
+2117	changed view	1.58
+2118	polluters	1.58
+2119	entire world	1.58
+2120	ignored	1.58
+2121	youre going	1.58
+2122	way see	1.58
+2123	allowed	1.57
+2124	saudi arabia	1.57
+2125	arabia	1.57
+2126	masters	1.57
+2127	thank reply	1.57
+2128	climate control	1.57
+2129	favor	1.57
+2130	people angry	1.57
+2131	energy sources	1.57
+2132	would able	1.57
+2133	represents	1.57
+2134	process	1.57
+2135	keeping	1.57
+2136	climate deniers	1.57
+2137	addition	1.56
+2138	destroyed	1.56
+2139	whole point	1.56
+2140	accounts	1.56
+2141	race	1.56
+2142	changing climate	1.56
+2143	angle	1.56
+2144	soot	1.56
+2145	opinions	1.56
+2146	expedient	1.56
+2147	cant really	1.56
+2148	would love	1.55
+2149	price oil	1.55
+2150	greenhouse gases	1.55
+2151	greenhouse effect	1.55
+2152	hydro	1.55
+2153	less concerned	1.55
+2154	namely	1.55
+2155	summary	1.55
+2156	denialism	1.55
+2157	without climate	1.55
+2158	would go	1.55
+2159	big deal	1.55
+2160	factual	1.54
+2161	lot less	1.54
+2162	trigger	1.54
+2163	protesting	1.54
+2164	would help	1.54
+2165	accountable	1.54
+2166	exxon	1.54
+2167	died	1.54
+2168	people still	1.54
+2169	anecdotal	1.54
+2170	versus	1.54
+2171	last years	1.54
+2172	think thats	1.54
+2173	global climate	1.54
+2174	fukushima	1.54
+2175	isnt going	1.54
+2176	cared	1.54
+2177	town	1.53
+2178	world actually	1.53
+2179	commute	1.53
+2180	non	1.53
+2181	prefer	1.53
+2182	really good	1.53
+2183	fission reactors	1.53
+2184	best way	1.53
+2185	magnitude	1.53
+2186	interplanetary	1.53
+2187	farmers	1.52
+2188	cultural	1.52
+2189	full	1.52
+2190	strongly	1.52
+2191	acts	1.52
+2192	unmitigated	1.52
+2193	unmitigated climate	1.52
+2194	believe change	1.52
+2195	messy	1.52
+2196	panic	1.52
+2197	emissions would	1.52
+2198	gon na	1.52
+2199	gon	1.52
+2200	sold	1.52
+2201	corals	1.52
+2202	previous	1.52
+2203	global temperature	1.52
+2204	cook	1.52
+2205	chairs	1.51
+2206	change cause	1.51
+2207	indefinitely	1.51
+2208	downvote	1.51
+2209	broken one	1.51
+2210	one effective	1.51
+2211	see comment	1.51
+2212	comment broken	1.51
+2213	effective report	1.51
+2214	report downvote	1.51
+2215	factually	1.51
+2216	counterarguments	1.51
+2217	make people	1.51
+2218	green house	1.51
+2219	unaware	1.51
+2220	environmentally friendly	1.51
+2221	help understand	1.51
+2222	comfort	1.51
+2223	like india	1.5
+2224	household	1.5
+2225	people pay	1.5
+2226	need make	1.5
+2227	brazil	1.5
+2228	resource intensive	1.5
+2229	connected	1.5
+2230	unknown	1.5
+2231	bodies	1.5
+2232	opposed	1.5
+2233	expert	1.5
+2234	speed	1.5
+2235	picture	1.5
+2236	take care	1.5
+2237	unable	1.5
+2238	trouble	1.5
+2239	effectively	1.5
+2240	ipccs	1.5
+2241	referring	1.49
+2242	feasible	1.49
+2243	actually believe	1.49
+2244	presented	1.49
+2245	peoples lives	1.49
+2246	restaurants	1.49
+2247	supporters	1.49
+2248	members	1.49
+2249	shifting	1.49
+2250	chemical	1.49
+2251	good reason	1.49
+2252	lot money	1.49
+2253	pollute	1.49
+2254	people world	1.49
+2255	history mankind	1.49
+2256	natural disasters	1.48
+2257	russia	1.48
+2258	government action	1.48
+2259	turns	1.48
+2260	one best	1.48
+2261	habitat	1.48
+2262	portion population	1.48
+2263	point view	1.48
+2264	direction	1.48
+2265	deeply	1.47
+2266	politician	1.47
+2267	capable	1.47
+2268	methods	1.47
+2269	amazon rainforest	1.47
+2270	rid	1.47
+2271	occur	1.47
+2272	youre saying	1.47
+2273	anita	1.46
+2274	anita hill	1.46
+2275	dark	1.46
+2276	interface	1.46
+2277	disproportionate	1.46
+2278	requiring	1.46
+2279	play	1.46
+2280	oil consumption	1.46
+2281	thing society	1.46
+2282	enough resources	1.46
+2283	galvanize	1.46
+2284	make sure	1.46
+2285	switch green	1.46
+2286	repeating	1.46
+2287	extremely well	1.45
+2288	birth rates	1.45
+2289	mistakes	1.45
+2290	self	1.45
+2291	income food	1.45
+2292	wouldnt consider	1.45
+2293	denmark	1.45
+2294	missed	1.45
+2295	earths climate	1.45
+2296	behaviors	1.45
+2297	lacking	1.45
+2298	hypothesis	1.45
+2299	arent willing	1.44
+2300	appoint	1.44
+2301	maize	1.44
+2302	biodiversity	1.44
+2303	storms	1.44
+2304	boycotts	1.44
+2305	locally	1.44
+2306	sunlight	1.44
+2307	agree climate	1.44
+2308	change big	1.44
+2309	travels	1.44
+2310	mere	1.44
+2311	encourage	1.44
+2312	homeless	1.44
+2313	structural	1.44
+2314	allowing	1.43
+2315	cast	1.43
+2316	amounts	1.43
+2317	catastrophic	1.43
+2318	change must	1.43
+2319	others pointed	1.43
+2320	secure	1.43
+2321	root	1.43
+2322	targets	1.43
+2323	manufacture	1.43
+2324	large corporations	1.43
+2325	overpopulation	1.43
+2326	garbage	1.43
+2327	quick	1.43
+2328	avoiding	1.43
+2329	sounds like	1.43
+2330	safer	1.43
+2331	cycles	1.43
+2332	theyll shut	1.43
+2333	shut pumps	1.43
+2334	inherently	1.43
+2335	comparing	1.42
+2336	end century	1.42
+2337	bear	1.42
+2338	carefully guarded	1.42
+2339	carefully	1.42
+2340	cloud	1.42
+2341	letting	1.42
+2342	would pay	1.42
+2343	turning	1.42
+2344	led	1.42
+2345	programs	1.42
+2346	warning	1.42
+2347	beginning	1.42
+2348	powered	1.42
+2349	dont mean	1.42
+2350	activities	1.42
+2351	reefs	1.42
+2352	problem nuclear	1.41
+2353	vegan diet	1.41
+2354	discussions	1.41
+2355	fund	1.41
+2356	emerging	1.41
+2357	honest	1.41
+2358	cause climate	1.41
+2359	blue	1.41
+2360	thats good	1.41
+2361	roughly	1.41
+2362	stance	1.41
+2363	would happen	1.41
+2364	military	1.41
+2365	transported	1.41
+2366	lanes	1.41
+2367	people fight	1.41
+2368	elon	1.4
+2369	page	1.4
+2370	conspiracy theory	1.4
+2371	change much	1.4
+2372	toward	1.4
+2373	andor	1.4
+2374	hurts	1.4
+2375	adjust	1.4
+2376	another way	1.4
+2377	freedom	1.4
+2378	world population	1.4
+2379	providing	1.4
+2380	already happening	1.4
+2381	behaviour	1.39
+2382	straight	1.39
+2383	high prices	1.39
+2384	entire planet	1.39
+2385	misunderstanding	1.39
+2386	maybe people	1.39
+2387	relevant	1.39
+2388	would work	1.39
+2389	product containers	1.39
+2390	conspiracies	1.39
+2391	walking	1.39
+2392	thesis	1.39
+2393	would actually	1.39
+2394	widespread	1.38
+2395	attacking	1.38
+2396	wind solar	1.38
+2397	im optimistic	1.38
+2398	solar radiation	1.38
+2399	people afraid	1.38
+2400	taking away	1.38
+2401	religious	1.38
+2402	biden would	1.38
+2403	imperative	1.38
+2404	pure	1.38
+2405	structures	1.38
+2406	operational	1.38
+2407	might change	1.38
+2408	whats point	1.38
+2409	id also	1.38
+2410	oil producer	1.38
+2411	change current	1.38
+2412	planet would	1.38
+2413	really close	1.37
+2414	overnight	1.37
+2415	ill put	1.37
+2416	way life	1.37
+2417	rolling	1.37
+2418	agricultural	1.37
+2419	elements	1.37
+2420	unsold	1.37
+2421	climate always	1.37
+2422	expense	1.37
+2423	individual action	1.37
+2424	india china	1.37
+2425	long run	1.37
+2426	horrible	1.37
+2427	protected	1.37
+2428	proposed changes	1.37
+2429	demonstrated	1.37
+2430	top wealth	1.37
+2431	bust	1.36
+2432	former	1.36
+2433	advance	1.36
+2434	selling	1.36
+2435	productive force	1.36
+2436	raised	1.36
+2437	birth rate	1.36
+2438	pretty good	1.36
+2439	cost billion	1.36
+2440	pollution climate	1.36
+2441	premises	1.36
+2442	abandoning	1.36
+2443	bigger problem	1.35
+2444	subsaharan	1.35
+2445	subsaharan africa	1.35
+2446	marketing	1.35
+2447	energy storage	1.35
+2448	evolved	1.35
+2449	think many	1.35
+2450	risks	1.35
+2451	controversial	1.35
+2452	one way	1.35
+2453	jury	1.35
+2454	social movements	1.35
+2455	nuance	1.35
+2456	candidates	1.35
+2457	id love	1.35
+2458	climate changes	1.35
+2459	sample size	1.34
+2460	change myth	1.34
+2461	world would	1.34
+2462	citizens	1.34
+2463	say things	1.34
+2464	kinda	1.34
+2465	capital	1.34
+2466	good solution	1.34
+2467	ceo	1.34
+2468	large areas	1.34
+2469	pushed	1.34
+2470	meaning	1.34
+2471	conscious	1.34
+2472	capabilities	1.34
+2473	think impossible	1.34
+2474	thoroughly	1.34
+2475	releases	1.34
+2476	antagonizing	1.34
+2477	parts world	1.34
+2478	proliferation	1.34
+2479	designed	1.33
+2480	possibility	1.33
+2481	whether climate	1.33
+2482	nuclear weapons	1.33
+2483	weapons	1.33
+2484	speculation	1.33
+2485	coastal cities	1.33
+2486	much expensive	1.33
+2487	able find	1.33
+2488	stagnant	1.33
+2489	long time	1.33
+2490	interglacial	1.33
+2491	genuinely	1.33
+2492	hurting	1.33
+2493	preserving	1.33
+2494	patch	1.33
+2495	skeptics deniers	1.33
+2496	see major	1.33
+2497	think climate	1.33
+2498	moved	1.33
+2499	pull	1.33
+2500	realized	1.33
+2501	values	1.33
+2502	conservative values	1.33
+2503	concerned physical	1.32
+2504	hate people	1.32
+2505	taxed	1.32
+2506	honestly believe	1.32
+2507	able change	1.32
+2508	try stop	1.32
+2509	miles	1.32
+2510	sacrifice	1.32
+2511	public opinion	1.32
+2512	politicized	1.32
+2513	mainstream	1.32
+2514	really dont	1.32
+2515	flaws	1.32
+2516	per capita	1.32
+2517	capita	1.32
+2518	drastic action	1.32
+2519	sets	1.32
+2520	balance	1.32
+2521	shoes	1.32
+2522	oil ground	1.32
+2523	confident	1.32
+2524	temperature around	1.32
+2525	strategy	1.32
+2526	subsidize strategy	1.32
+2527	weight	1.32
+2528	worst case	1.32
+2529	fits	1.31
+2530	untapped	1.31
+2531	assign	1.31
+2532	change could	1.31
+2533	reaching	1.31
+2534	measure	1.31
+2535	metals	1.31
+2536	debt	1.31
+2537	bills	1.31
+2538	customer	1.31
+2539	invented	1.31
+2540	committed	1.31
+2541	correctly	1.31
+2542	much impact	1.31
+2543	every day	1.31
+2544	pro	1.31
+2545	justify	1.31
+2546	reports	1.31
+2547	bread	1.31
+2548	grown	1.31
+2549	sake	1.31
+2550	note	1.31
+2551	doesnt mean	1.3
+2552	change behavior	1.3
+2553	leftist	1.3
+2554	believe real	1.3
+2555	washing	1.3
+2556	devastation	1.3
+2557	need start	1.3
+2558	poor countries	1.3
+2559	lifestyle choices	1.3
+2560	bad climate	1.3
+2561	would less	1.3
+2562	compromises	1.3
+2563	biasfree	1.3
+2564	need know	1.3
+2565	know facts	1.3
+2566	facts biasfree	1.3
+2567	albeit	1.3
+2568	musical chairs	1.3
+2569	musical	1.3
+2570	operate	1.3
+2571	end world	1.3
+2572	role	1.3
+2573	metric ton	1.29
+2574	trend	1.29
+2575	healthy	1.29
+2576	aimed	1.29
+2577	confusing	1.29
+2578	heating	1.29
+2579	foods	1.29
+2580	people die	1.29
+2581	extinction event	1.29
+2582	rural	1.29
+2583	repeat entire	1.29
+2584	make nuclear	1.29
+2585	herdlike	1.29
+2586	track	1.29
+2587	carrot	1.29
+2588	consuming	1.29
+2589	humancaused	1.29
+2590	annual	1.29
+2591	physics	1.28
+2592	regulate	1.28
+2593	cant take	1.28
+2594	eliminate	1.28
+2595	like oil	1.28
+2596	variety	1.28
+2597	woman	1.28
+2598	change minds	1.28
+2599	incentivized	1.28
+2600	accuracy	1.28
+2601	level consumption	1.28
+2602	jailing climate	1.27
+2603	jailing	1.27
+2604	coral	1.27
+2605	texas	1.27
+2606	coast	1.27
+2607	representative	1.27
+2608	think need	1.27
+2609	extract oil	1.27
+2610	worldview	1.27
+2611	intense	1.27
+2612	friends	1.27
+2613	destruction	1.27
+2614	sensitive	1.27
+2615	sit chair	1.27
+2616	people work	1.27
+2617	unclear	1.27
+2618	using resources	1.26
+2619	deniers believe	1.26
+2620	users	1.26
+2621	extremes	1.26
+2622	everywhere	1.26
+2623	hungry	1.26
+2624	unprofitable	1.26
+2625	human activity	1.26
+2626	proposals	1.26
+2627	predictable	1.26
+2628	become profitable	1.26
+2629	hurricanes	1.26
+2630	people need	1.26
+2631	lithium	1.26
+2632	could make	1.26
+2633	regulations	1.26
+2634	implications	1.26
+2635	way get	1.26
+2636	make significant	1.26
+2637	maintaining	1.26
+2638	much global	1.26
+2639	member	1.26
+2640	gwh	1.26
+2641	trends	1.25
+2642	resource expensive	1.25
+2643	high school	1.25
+2644	course action	1.25
+2645	work would	1.25
+2646	us years	1.25
+2647	reduction good	1.25
+2648	develop new	1.25
+2649	mobile	1.25
+2650	lets say	1.25
+2651	sway	1.25
+2652	motivated	1.25
+2653	people could	1.25
+2654	undecided	1.25
+2655	us economy	1.25
+2656	weird	1.24
+2657	blow	1.24
+2658	address climate	1.24
+2659	change action	1.24
+2660	soft	1.24
+2661	trump supporters	1.24
+2662	vastly	1.24
+2663	related climate	1.24
+2664	land use	1.24
+2665	accessible	1.24
+2666	attitude	1.24
+2667	video	1.24
+2668	fertility	1.23
+2669	reduces	1.23
+2670	mines	1.23
+2671	equally	1.23
+2672	music	1.23
+2673	federal	1.23
+2674	everything else	1.23
+2675	think something	1.23
+2676	average person	1.23
+2677	survival	1.23
+2678	know people	1.23
+2679	room	1.23
+2680	nonquantifiable	1.23
+2681	reduce carbon	1.23
+2682	corruption	1.23
+2683	really much	1.23
+2684	utah	1.23
+2685	special	1.23
+2686	longer dont	1.23
+2687	factories	1.23
+2688	technical	1.23
+2689	droughts	1.23
+2690	prove climate	1.23
+2691	appropriate	1.22
+2692	carbon reduction	1.22
+2693	outside	1.22
+2694	people poverty	1.22
+2695	turned	1.22
+2696	less incentive	1.22
+2697	problem even	1.22
+2698	evidence know	1.22
+2699	areas like	1.22
+2700	wouldnt even	1.22
+2701	stuff like	1.22
+2702	said would	1.22
+2703	persons	1.22
+2704	minimum	1.22
+2705	extreme weather	1.22
+2706	substantially	1.22
+2707	thats going	1.22
+2708	cheaper cheaper	1.22
+2709	would prefer	1.22
+2710	surrounding	1.22
+2711	us uk	1.21
+2712	uk france	1.21
+2713	france germany	1.21
+2714	see evidence	1.21
+2715	mongering	1.21
+2716	fear mongering	1.21
+2717	doesnt seem	1.21
+2718	point opportunity	1.21
+2719	pushback	1.21
+2720	scientist	1.21
+2721	causing climate	1.21
+2722	politics prevent	1.21
+2723	going anything	1.21
+2724	starting	1.21
+2725	problem climate	1.21
+2726	proposing	1.21
+2727	take away	1.21
+2728	university	1.21
+2729	using fossil	1.21
+2730	willingness	1.21
+2731	denial climate	1.21
+2732	act like	1.21
+2733	render	1.21
+2734	ipcc report	1.21
+2735	developers	1.21
+2736	fission reactor	1.21
+2737	voters	1.21
+2738	happen people	1.21
+2739	bipartisanship	1.2
+2740	mass extinctions	1.2
+2741	understand youre	1.2
+2742	voter	1.2
+2743	able support	1.2
+2744	properly	1.2
+2745	individual changes	1.2
+2746	fairly intelligent	1.2
+2747	solutions climate	1.2
+2748	poor people	1.2
+2749	misinterpreted	1.2
+2750	still live	1.2
+2751	things mentioned	1.2
+2752	utterly	1.2
+2753	gone	1.2
+2754	closer	1.2
+2755	runs	1.2
+2756	devastating	1.2
+2757	responsible climate	1.2
+2758	treat	1.2
+2759	majority politicians	1.2
+2760	space travel	1.2
+2761	predicts	1.19
+2762	iea	1.19
+2763	provided	1.19
+2764	change climate	1.19
+2765	tends	1.19
+2766	suspect	1.19
+2767	even dont	1.19
+2768	science behind	1.19
+2769	manmade climate	1.19
+2770	sea level	1.19
+2771	dont even	1.19
+2772	labor	1.19
+2773	gas emissions	1.19
+2774	resources available	1.19
+2775	refugee crisis	1.19
+2776	refugee	1.19
+2777	runaway	1.19
+2778	one time	1.19
+2779	fashion	1.19
+2780	selfishness	1.18
+2781	partisan	1.18
+2782	also switch	1.18
+2783	addressing	1.18
+2784	gradual	1.18
+2785	point think	1.18
+2786	patterns	1.18
+2787	woefully	1.18
+2788	woefully ignorant	1.18
+2789	really believe	1.18
+2790	continues	1.18
+2791	move away	1.18
+2792	grand	1.18
+2793	freshwater	1.18
+2794	vehicle	1.18
+2795	change really	1.18
+2796	opinion climate	1.18
+2797	taxation	1.18
+2798	fresh	1.18
+2799	possibilities	1.18
+2800	oil gas	1.18
+2801	combating	1.17
+2802	combating climate	1.17
+2803	poorer	1.17
+2804	solarwind	1.17
+2805	every scientific	1.17
+2806	reuse	1.17
+2807	energies	1.17
+2808	supplies	1.17
+2809	considerable	1.17
+2810	made difference	1.17
+2811	thorium	1.17
+2812	sizes	1.17
+2813	would require	1.17
+2814	impression	1.17
+2815	science facts	1.17
+2816	complicated	1.17
+2817	even made	1.17
+2818	say thats	1.17
+2819	decent	1.16
+2820	energy source	1.16
+2821	closing	1.16
+2822	would messy	1.16
+2823	issue would	1.16
+2824	forcing issue	1.16
+2825	say forcing	1.16
+2826	stable	1.16
+2827	weather events	1.16
+2828	end human	1.16
+2829	greatly	1.16
+2830	ahead	1.16
+2831	sadly	1.16
+2832	temporary	1.16
+2833	knowing	1.16
+2834	unviable	1.16
+2835	mining	1.16
+2836	cant lower	1.16
+2837	oil indefinitely	1.16
+2838	prices oil	1.16
+2839	western world	1.16
+2840	youve got	1.16
+2841	energy use	1.16
+2842	senator	1.16
+2843	change end	1.16
+2844	since industrial	1.16
+2845	efficiency	1.15
+2846	contribution	1.15
+2847	may even	1.15
+2848	rather little	1.15
+2849	flood	1.15
+2850	button	1.15
+2851	world going	1.15
+2852	intrastate migration	1.15
+2853	nuclear bomb	1.15
+2854	isnt real	1.15
+2855	spain	1.15
+2856	damages climate	1.15
+2857	damages	1.15
+2858	even would	1.15
+2859	hits	1.15
+2860	change caused	1.15
+2861	ecofriendly	1.15
+2862	underlying	1.15
+2863	powerful people	1.15
+2864	less people	1.15
+2865	people want	1.15
+2866	adaptability	1.15
+2867	normally	1.14
+2868	cleaner	1.14
+2869	mindset	1.14
+2870	uranium	1.14
+2871	senators	1.14
+2872	accomplish	1.14
+2873	sustain	1.14
+2874	absurdly	1.14
+2875	broke	1.14
+2876	decides	1.14
+2877	switching renewables	1.14
+2878	conspiracy theories	1.14
+2879	housing	1.14
+2880	refuse	1.14
+2881	civil	1.14
+2882	right first	1.14
+2883	isnt factual	1.14
+2884	thus claim	1.14
+2885	factual reasonable	1.14
+2886	manmade isnt	1.14
+2887	gas go	1.14
+2888	basis	1.14
+2889	vision	1.14
+2890	migrations	1.14
+2891	would eventually	1.14
+2892	genuine	1.14
+2893	sign	1.14
+2894	water scarcity	1.14
+2895	threshold	1.14
+2896	describes	1.13
+2897	twitter	1.13
+2898	babies	1.13
+2899	hydropower	1.13
+2900	neednt	1.13
+2901	hotter	1.13
+2902	cognitive	1.13
+2903	stays	1.13
+2904	irreversible	1.13
+2905	vice	1.13
+2906	unsustainable businesses	1.13
+2907	outweigh	1.13
+2908	lie	1.13
+2909	highcost	1.13
+2910	real world	1.13
+2911	material	1.13
+2912	use example	1.13
+2913	change pollution	1.13
+2914	countries would	1.13
+2915	stored	1.13
+2916	change bad	1.13
+2917	criminal	1.13
+2918	problem would	1.13
+2919	human caused	1.13
+2920	human race	1.13
+2921	create new	1.13
+2922	emotional	1.12
+2923	emotional energy	1.12
+2924	climate crisis	1.12
+2925	thousands years	1.12
+2926	warmer world	1.12
+2927	doesnt appear	1.12
+2928	pumping	1.12
+2929	allow	1.12
+2930	supply demand	1.12
+2931	user	1.12
+2932	forcing people	1.12
+2933	efficiently	1.12
+2934	get away	1.12
+2935	prevented	1.12
+2936	people already	1.12
+2937	exceptionally	1.12
+2938	shutdown	1.12
+2939	meteor	1.12
+2940	historical	1.12
+2941	even cheaper	1.12
+2942	somewhere	1.12
+2943	forgotten	1.12
+2944	fuel lobbyists	1.12
+2945	exclusive	1.12
+2946	biden said	1.12
+2947	live virtual	1.12
+2948	combustion	1.12
+2949	excessive	1.12
+2950	change lifestyle	1.12
+2951	judges	1.11
+2952	absorb	1.11
+2953	werent	1.11
+2954	exposed	1.11
+2955	persecution	1.11
+2956	coal natural	1.11
+2957	carbon emission	1.11
+2958	minor	1.11
+2959	safely	1.11
+2960	tells	1.11
+2961	good idea	1.11
+2962	energy already	1.11
+2963	change lead	1.11
+2964	data shows	1.11
+2965	though may	1.11
+2966	skepticism	1.11
+2967	bernie bust	1.11
+2968	st world	1.11
+2969	would put	1.11
+2970	suggests	1.11
+2971	australia	1.11
+2972	going take	1.11
+2973	intentions	1.1
+2974	frequently	1.1
+2975	population size	1.1
+2976	may well	1.1
+2977	million people	1.1
+2978	change fact	1.1
+2979	dispose	1.1
+2980	imagine much	1.1
+2981	established	1.1
+2982	populace	1.1
+2983	investment even	1.1
+2984	protests boycotts	1.1
+2985	life earth	1.1
+2986	suddenly become	1.1
+2987	people going	1.1
+2988	abundance	1.1
+2989	blame individuals	1.1
+2990	combination	1.09
+2991	dramatically	1.09
+2992	skipping	1.09
+2993	typically	1.09
+2994	altruism	1.09
+2995	catastrophe	1.09
+2996	mars	1.09
+2997	agree point	1.09
+2998	drivers	1.09
+2999	force climate	1.09
+3000	also ones	1.09
+3001	critique	1.09
+3002	contributions	1.09
+3003	solve climate	1.09
+3004	change denialism	1.09
+3005	low enough	1.09
+3006	increase price	1.09
+3007	significant differences	1.09
+3008	even people	1.09
+3009	recognize	1.09
+3010	electricity bill	1.09
+3011	middle ground	1.09
+3012	speak	1.09
+3013	misconception	1.09
+3014	fail	1.09
+3015	democracy	1.09
+3016	meaningfully contribute	1.09
+3017	nothing else	1.09
+3018	global carbon	1.09
+3019	rhetoric	1.09
+3020	agreed	1.09
+3021	increase prices	1.08
+3022	producer leaves	1.08
+3023	single day	1.08
+3024	losses	1.08
+3025	completely understand	1.08
+3026	near future	1.08
+3027	scratch	1.08
+3028	one example	1.08
+3029	punish	1.08
+3030	core	1.08
+3031	people seem	1.08
+3032	innovations	1.08
+3033	new technologies	1.08
+3034	nightmare	1.08
+3035	desertification	1.08
+3036	prime	1.08
+3037	korea	1.08
+3038	purchasing	1.08
+3039	average joe	1.08
+3040	lean	1.08
+3041	levels rise	1.08
+3042	could go	1.08
+3043	consideration	1.07
+3044	tragic	1.07
+3045	really think	1.07
+3046	last year	1.07
+3047	contributing climate	1.07
+3048	echo	1.07
+3049	ev	1.07
+3050	banning climate	1.07
+3051	reason dont	1.07
+3052	going vegan	1.07
+3053	dumping	1.07
+3054	lowering	1.07
+3055	warming isnt	1.07
+3056	enough take	1.07
+3057	amount oil	1.07
+3058	due lack	1.07
+3059	aggressive	1.07
+3060	academic	1.07
+3061	go work	1.07
+3062	eu	1.07
+3063	actively deny	1.07
+3064	fracking	1.07
+3065	imminent	1.07
+3066	pace	1.07
+3067	change enough	1.06
+3068	like china	1.06
+3069	ripple	1.06
+3070	people get	1.06
+3071	careful	1.06
+3072	governmental	1.06
+3073	normal	1.06
+3074	government going	1.06
+3075	could proposed	1.06
+3076	changes possibly	1.06
+3077	already effect	1.06
+3078	possibly already	1.06
+3079	change global	1.06
+3080	giant	1.06
+3081	ad	1.06
+3082	property rights	1.06
+3083	burning fossil	1.06
+3084	survived	1.06
+3085	let alone	1.06
+3086	retirement account	1.06
+3087	wouldnt able	1.06
+3088	thats like	1.06
+3089	companies produce	1.06
+3090	impact climate	1.06
+3091	republican party	1.06
+3092	using climate	1.06
+3093	paris	1.06
+3094	wealth inequality	1.06
+3095	massive amount	1.05
+3096	diminishing	1.05
+3097	definitely make	1.05
+3098	statistical	1.05
+3099	educate	1.05
+3100	older	1.05
+3101	importance	1.05
+3102	entitled	1.05
+3103	energy grid	1.05
+3104	predisposed	1.05
+3105	unfortunately	1.05
+3106	change man	1.05
+3107	returns	1.05
+3108	think reason	1.05
+3109	moving away	1.05
+3110	chunk	1.05
+3111	switched	1.05
+3112	hence	1.05
+3113	investments	1.05
+3114	punishing	1.05
+3115	yield	1.05
+3116	implement	1.05
+3117	concern physical	1.05
+3118	feet	1.05
+3119	sociopolitical	1.04
+3120	installed	1.04
+3121	achieving carbon	1.04
+3122	people even	1.04
+3123	average people	1.04
+3124	depend	1.04
+3125	look like	1.04
+3126	politicians would	1.04
+3127	since proposed	1.04
+3128	proposed know	1.04
+3129	implemented yet	1.04
+3130	actually implemented	1.04
+3131	know actually	1.04
+3132	externalities	1.04
+3133	entirety	1.04
+3134	boycotting	1.04
+3135	eat bugs	1.04
+3136	literal	1.04
+3137	waste time	1.04
+3138	diets	1.04
+3139	fluctuations	1.04
+3140	tipping	1.04
+3141	net zero	1.04
+3142	credible	1.04
+3143	people often	1.04
+3144	faced	1.04
+3145	trumps	1.04
+3146	forces	1.04
+3147	die suffering	1.04
+3148	guess latter	1.04
+3149	case people	1.04
+3150	latter case	1.04
+3151	get sit	1.04
+3152	billion dollar	1.04
+3153	carbon free	1.04
+3154	tab	1.04
+3155	dont buy	1.04
+3156	caps	1.03
+3157	ice caps	1.03
+3158	salt	1.03
+3159	authoritarian	1.03
+3160	food shortages	1.03
+3161	elon musk	1.03
+3162	solely	1.03
+3163	seen lot	1.03
+3164	raise awareness	1.03
+3165	politicians like	1.03
+3166	illegal deforestation	1.03
+3167	network	1.03
+3168	passed law	1.03
+3169	suns	1.03
+3170	grow crops	1.03
+3171	senate	1.03
+3172	existed	1.03
+3173	news articles	1.03
+3174	oil prices	1.03
+3175	hydroelectric	1.03
+3176	school students	1.03
+3177	major differences	1.02
+3178	steal	1.02
+3179	shrink	1.02
+3180	anything else	1.02
+3181	know theyre	1.02
+3182	researching	1.02
+3183	undeniable	1.02
+3184	change hoax	1.02
+3185	turbines	1.02
+3186	existing nuclear	1.02
+3187	judge	1.02
+3188	heading	1.02
+3189	rebuild	1.02
+3190	website	1.02
+3191	could easily	1.02
+3192	hold corporations	1.02
+3193	summer winter	1.01
+3194	deadly	1.01
+3195	nearby	1.01
+3196	id say	1.01
+3197	global scale	1.01
+3198	act upon	1.01
+3199	people generally	1.01
+3200	makes think	1.01
+3201	epa	1.01
+3202	considerations	1.01
+3203	viable alternatives	1.01
+3204	oil producers	1.01
+3205	cutting	1.01
+3206	vested	1.01
+3207	class	1.01
+3208	cause harm	1.01
+3209	colonialism	1.01
+3210	ecology	1.0
+3211	convert	1.0
+3212	companies corporations	1.0
+3213	climate policy	1.0
+3214	never going	1.0
+3215	heard	1.0
+3216	shoulder	1.0
+3217	meat free	1.0
+3218	reset	1.0
+3219	unique	1.0
+3220	worlds population	1.0
+3221	objectively	1.0
+3222	theres enough	1.0
+3223	inaction	1.0
+3224	reaction	1.0
+3225	left wing	1.0
+3226	rapid changes	1.0
+3227	failing	1.0
+3228	rate would	0.99
+3229	believe scientists	0.99
+3230	im still	0.99
+3231	lot time	0.99
+3232	people deny	0.99
+3233	way live	0.99
+3234	make huge	0.99
+3235	bombs	0.99
+3236	alive	0.99
+3237	make climate	0.99
+3238	concede	0.99
+3239	apples	0.99
+3240	im mobile	0.99
+3241	kinds	0.99
+3242	talk people	0.99
+3243	base	0.98
+3244	obligated	0.98
+3245	apollo	0.98
+3246	house gasses	0.98
+3247	frankly	0.98
+3248	playing	0.98
+3249	engineering	0.98
+3250	universal	0.98
+3251	nuclear powers	0.98
+3252	replaced	0.98
+3253	old technology	0.98
+3254	enact	0.98
+3255	ineffective	0.98
+3256	ton co	0.98
+3257	replacing	0.98
+3258	power sources	0.98
+3259	destroy forests	0.98
+3260	like us	0.98
+3261	actually make	0.98
+3262	mile island	0.98
+3263	cooling	0.98
+3264	style	0.98
+3265	use nuclear	0.98
+3266	fly	0.98
+3267	impose	0.98
+3268	still dont	0.98
+3269	see people	0.98
+3270	accurately	0.98
+3271	waiting	0.98
+3272	fucking	0.98
+3273	majority global	0.98
+3274	countless	0.98
+3275	public support	0.98
+3276	coal mines	0.97
+3277	talk climate	0.97
+3278	literate	0.97
+3279	scientifically literate	0.97
+3280	around climate	0.97
+3281	using public	0.97
+3282	main point	0.97
+3283	spending money	0.97
+3284	prove point	0.97
+3285	going make	0.97
+3286	reduction helpful	0.97
+3287	emission reduction	0.97
+3288	engage	0.97
+3289	gradual change	0.97
+3290	reviewed	0.97
+3291	peer reviewed	0.97
+3292	looked	0.97
+3293	entity	0.97
+3294	mascot	0.97
+3295	see would	0.97
+3296	placed	0.97
+3297	taking account	0.96
+3298	enterprises	0.96
+3299	dairy	0.96
+3300	young adults	0.96
+3301	way fight	0.96
+3302	key points	0.96
+3303	earths history	0.96
+3304	land footprint	0.96
+3305	low land	0.96
+3306	everyones	0.96
+3307	simply cant	0.96
+3308	also true	0.96
+3309	nowhere	0.96
+3310	richer	0.96
+3311	rises	0.96
+3312	institutions	0.96
+3313	directly indirectly	0.96
+3314	technological solutions	0.96
+3315	convinced nuclear	0.96
+3316	percentage income	0.96
+3317	available us	0.96
+3318	climate emergency	0.96
+3319	change going	0.96
+3320	test	0.95
+3321	regards	0.95
+3322	pile	0.95
+3323	excess energy	0.95
+3324	adding	0.95
+3325	cbo	0.95
+3326	congress	0.95
+3327	stay	0.95
+3328	could used	0.95
+3329	algae	0.95
+3330	accelerate	0.95
+3331	neural	0.95
+3332	aspect	0.95
+3333	time come	0.95
+3334	historically	0.95
+3335	neither	0.95
+3336	agrees	0.95
+3337	degrees warming	0.95
+3338	dollars per	0.95
+3339	per metric	0.95
+3340	bearing	0.95
+3341	transform	0.94
+3342	temp	0.94
+3343	insignificant	0.94
+3344	time get	0.94
+3345	regions world	0.94
+3346	capability	0.94
+3347	prevent worst	0.94
+3348	advantage	0.94
+3349	price solar	0.94
+3350	able get	0.94
+3351	likely continue	0.94
+3352	get benefit	0.94
+3353	incomes	0.94
+3354	low incomes	0.94
+3355	invested	0.94
+3356	generations come	0.94
+3357	make predictions	0.94
+3358	water resources	0.94
+3359	initial	0.94
+3360	thereby	0.94
+3361	says climate	0.93
+3362	developing nations	0.93
+3363	presumably	0.93
+3364	necessity	0.93
+3365	initiatives	0.93
+3366	violent	0.93
+3367	suggest	0.93
+3368	tied	0.93
+3369	reduce co	0.92
+3370	tactic	0.92
+3371	meter	0.92
+3372	liberal hoax	0.92
+3373	runs counter	0.92
+3374	personally think	0.92
+3375	bad faith	0.92
+3376	legitimate	0.92
+3377	private industry	0.92
+3378	blame companies	0.92
+3379	owner	0.92
+3380	leaves carbon	0.92
+3381	carbon green	0.92
+3382	green price	0.92
+3383	young people	0.92
+3384	power generation	0.92
+3385	conventional	0.92
+3386	like first	0.91
+3387	bycicle lanes	0.91
+3388	farther	0.91
+3389	sector	0.91
+3390	outdated	0.91
+3391	leaders	0.91
+3392	helped	0.91
+3393	costs extract	0.91
+3394	would lower	0.91
+3395	lower costs	0.91
+3396	point price	0.91
+3397	price would	0.91
+3398	background	0.91
+3399	would effect	0.91
+3400	cite	0.91
+3401	distribution	0.91
+3402	get work	0.91
+3403	meets	0.91
+3404	rationally	0.91
+3405	market solution	0.91
+3406	help climate	0.91
+3407	preface	0.91
+3408	energy demand	0.91
+3409	may end	0.91
+3410	disease	0.91
+3411	main power	0.9
+3412	academia	0.9
+3413	huge polluters	0.9
+3414	going go	0.9
+3415	car market	0.9
+3416	causation	0.9
+3417	bi	0.9
+3418	bi partisan	0.9
+3419	serious enough	0.9
+3420	oil industry	0.9
+3421	negatively	0.9
+3422	comfortable	0.9
+3423	trump biden	0.9
+3424	rest lives	0.9
+3425	couple decades	0.9
+3426	regardless whether	0.9
+3427	sun activity	0.9
+3428	frame	0.9
+3429	put money	0.9
+3430	world like	0.9
+3431	change needs	0.9
+3432	people may	0.9
+3433	also believe	0.9
+3434	ability house	0.89
+3435	functioning free	0.89
+3436	fully functioning	0.89
+3437	tunnel vision	0.89
+3438	tunnel	0.89
+3439	doomism	0.89
+3440	climate doomism	0.89
+3441	think part	0.89
+3442	goods	0.89
+3443	earlier	0.89
+3444	devices	0.89
+3445	buy new	0.88
+3446	utter nightmare	0.88
+3447	utter	0.88
+3448	tentative	0.88
+3449	mexico	0.88
+3450	stands	0.88
+3451	states like	0.88
+3452	coal gas	0.88
+3453	go much	0.88
+3454	collection	0.88
+3455	nasa	0.87
+3456	phase	0.87
+3457	tried	0.87
+3458	ethical course	0.87
+3459	infrared	0.87
+3460	stations	0.87
+3461	dont make	0.87
+3462	idk	0.87
+3463	protection	0.87
+3464	think way	0.87
+3465	change currently	0.87
+3466	households	0.87
+3467	continue get	0.87
+3468	environmental impact	0.87
+3469	make sacrifices	0.86
+3470	thousand	0.86
+3471	inform	0.86
+3472	building new	0.86
+3473	establish	0.86
+3474	view climate	0.86
+3475	make serious	0.86
+3476	real problem	0.86
+3477	compound	0.86
+3478	new york	0.86
+3479	york	0.86
+3480	costs associated	0.86
+3481	im getting	0.86
+3482	organizations	0.86
+3483	eye	0.86
+3484	backfired	0.86
+3485	far worse	0.85
+3486	solar energy	0.85
+3487	large parts	0.85
+3488	latter half	0.85
+3489	googling	0.85
+3490	follows	0.85
+3491	insect	0.85
+3492	trees	0.85
+3493	doesnt matter	0.85
+3494	personal lifestyle	0.85
+3495	wise	0.85
+3496	could say	0.85
+3497	harm future	0.85
+3498	rationality	0.85
+3499	get even	0.85
+3500	climate activism	0.85
+3501	cuts	0.85
+3502	like one	0.85
+3503	thorium reactors	0.85
+3504	weather conditions	0.85
+3505	case think	0.85
+3506	massive extinction	0.84
+3507	imo	0.84
+3508	distance	0.84
+3509	new solar	0.84
+3510	seek	0.84
+3511	larger population	0.84
+3512	experts field	0.84
+3513	would absolutely	0.84
+3514	time left	0.84
+3515	earth metals	0.83
+3516	rare earth	0.83
+3517	virtually	0.83
+3518	future new	0.83
+3519	new predictions	0.83
+3520	change entirely	0.83
+3521	plastic packaging	0.83
+3522	quickly possible	0.83
+3523	youtube	0.83
+3524	indicates	0.83
+3525	replacement	0.83
+3526	probably wont	0.83
+3527	development new	0.82
+3528	meet demand	0.82
+3529	instead would	0.82
+3530	population control	0.82
+3531	global temperatures	0.82
+3532	changes would	0.82
+3533	ghg emissions	0.82
+3534	ghg	0.82
+3535	colonial	0.82
+3536	colonial powers	0.82
+3537	storage solutions	0.82
+3538	socialist	0.82
+3539	current state	0.81
+3540	means less	0.81
+3541	change reduce	0.81
+3542	believe one	0.81
+3543	irrational denial	0.81
+3544	reach point	0.81
+3545	get better	0.81
+3546	gases produce	0.81
+3547	senators white	0.81
+3548	white house	0.81
+3549	house officials	0.81
+3550	officials	0.81
+3551	energy one	0.8
+3552	battery storage	0.8
+3553	similarly	0.8
+3554	things happen	0.8
+3555	hoard	0.8
+3556	task	0.8
+3557	delivery	0.8
+3558	recent ipcc	0.8
+3559	dispersed energy	0.8
+3560	dispersed	0.8
+3561	coasts	0.8
+3562	people move	0.8
+3563	farming move	0.8
+3564	coasts farming	0.8
+3565	away coasts	0.8
+3566	ignoring fact	0.8
+3567	danger	0.8
+3568	produce greenhouse	0.79
+3569	stuck	0.79
+3570	disposal	0.79
+3571	caused climate	0.79
+3572	much worse	0.79
+3573	natural climate	0.79
+3574	demands	0.79
+3575	useful	0.79
+3576	spending reduce	0.79
+3577	hundreds millions	0.79
+3578	gasoline	0.79
+3579	get extreme	0.78
+3580	fires	0.78
+3581	going able	0.78
+3582	seas	0.77
+3583	guilty	0.77
+3584	isnt much	0.77
+3585	maximum	0.77
+3586	changes made	0.77
+3587	shortages due	0.77
+3588	right nuclear	0.77
+3589	battery tech	0.77
+3590	believes conspiracy	0.76
+3591	direct answers	0.76
+3592	scholar	0.76
+3593	answers	0.76
+3594	google scholar	0.76
+3595	provides direct	0.76
+3596	provides	0.76
+3597	scholar provides	0.76
+3598	google tells	0.76
+3599	tells nothing	0.76
+3600	nothing google	0.76
+3601	water wars	0.75
+3602	amount people	0.75
+3603	flight	0.75
+3604	buildings	0.75
+3605	people around	0.75
+3606	poor get	0.75
+3607	solution would	0.75
+3608	science conspiracy	0.75
+3609	wind farms	0.74
+3610	deep	0.74
+3611	indicating	0.74
+3612	limiting warming	0.74
+3613	proper	0.74
+3614	youd like	0.74
+3615	big oil	0.74
+3616	eating meat	0.73
+3617	renewable sources	0.73
+3618	order magnitude	0.73
+3619	population would	0.72
+3620	one specific	0.72
+3621	deliberately harm	0.72
+3622	zero carbon	0.72
+3623	adequately	0.71
+3624	ideals	0.71
+3625	think highly	0.71
+3626	price mean	0.7
+3627	mean build	0.7
+3628	fields previously	0.7
+3629	previously unprofitable	0.7
+3630	unprofitable suddenly	0.7
+3631	build pumps	0.7
+3632	pumps oil	0.7
+3633	decided	0.7
+3634	pandemics	0.7
+3635	change natural	0.7
+3636	dont car	0.69
+3637	curb	0.68
+3638	air pollution	0.68
+3639	hydrogen	0.67
+3640	pointing vast	0.67
+3641	caused large	0.67
+3642	narrative people	0.67
+3643	people pointing	0.67
+3644	emissions caused	0.67
+3645	hydrocarbons	0.67
+3646	derived	0.67
+3647	pipe dream	0.65
+3648	pipe	0.65
+3649	dream	0.65
+3650	admittedly	0.65
+3651	new battery	0.65
+3652	migrants	0.65
+3653	based current	0.64
+3654	next decade	0.63
+3655	theyre talking	0.62
+3656	become common	0.61
+3657	field would	0.61
+3658	adverse	0.61
+3659	online	0.56

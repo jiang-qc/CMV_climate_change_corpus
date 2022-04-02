@@ -1,0 +1,2 @@
+# COLX_523_Group7 
+Here is the files for scraping tweets with tweepy. The file api_cred.py contains the example api credentials for passing into the api call. crypto_api.py handles the main data scraping job. I use the tweepy version 3.10.0. The script is executed with "python crypto_api.py" in the commend line with no passing argument. It should automaticly scrap tweets asscoiated with specified keywords and save or append the data into a json file with current date as filename. The output json file is updated every minute. There is a example output included here. 
