@@ -5,7 +5,7 @@ This is the [source code](https://github.com/yueshengluo/climate_change_corpus) 
 
 If you want to try out the website we built for the corpus, follow the instruction below:
 
-To get things going, please first start Docker Desktop and download the `group7_fastapi-web-starter.tar` . Then in your CLI, navigate to the directory where you saved our tar file and run the following docker commands.
+To get things going, please first start Docker Desktop and download the [group7_fastapi-web-starter.tar](https://drive.google.com/drive/folders/1-ohpHhNh--yW9wKr4uAzDqFEp7i9ntQU) . Then in your CLI, navigate to the directory where you saved our tar file and run the following docker commands.
 ```
 docker load --input group7_fastapi-web-starter.tar
 docker run --publish 8000:8000 fastapi-web-starter
