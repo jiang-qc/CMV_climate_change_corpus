@@ -11,7 +11,7 @@ CMV is a perfect choice for us because, not only it has a record history of cons
 For example, below is a thread from the topic "Roadside advertising should be illegal." Here, the participant Reddits_Worst_Night granted "delta" to the participant hucklebae, which was then confirmed by DeltaBot (Reddit's bot that checks the validity of deltas). The six light-gray lines to the left of the delta giver Reddits_Worst_Night signifies this thread contains six comments in total.
 
 
-[CMV](milestone2/delta_thread.png)
+![CMV](milestone2/delta_thread.png)
 
 
 
