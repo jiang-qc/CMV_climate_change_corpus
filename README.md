@@ -11,22 +11,49 @@ CMV is a perfect choice for us because, not only it has a record history of cons
 For example, below is a thread from the topic "Roadside advertising should be illegal." Here, the participant Reddits_Worst_Night granted "delta" to the participant hucklebae, which was then confirmed by DeltaBot (Reddit's bot that checks the validity of deltas). The six light-gray lines to the left of the delta giver Reddits_Worst_Night signifies this thread contains six comments in total.
 
 
+[CMV](milestone2/delta_thread.png)
 
 
 
 
-# COLX_523_Group7
+# Project Contributors
 
 Qichao Jiang  
 Andrew Stich  
 Yuesheng Luo  
 Toshiko Shibano  
 
+# Milestones
+
+This is a one-month class project divided into 4 milestones. The achievements of each milestone are as below.
+
+## Milestone1
+
+- Brainstormed and drafted the teamwork contract and the project proposal
+
+## Milestone2
+
+- Scraped the raw data from reddit
+- Data preprocessing
+- Drafted the annotation guidelines
+
+## Milestone3
+
+- Annotated data manually
+- Applied inter-annotator alignment study
+- Visualized the corpus
+- Drafted the interface plan
+
+## Milestone4
+
+- Completed the HTML front-end and Python back-end for the interface. 
+- Dockerized it to be distributed for peer review.
+
+
 ## Repo organization
 
 Milestone-specific written documents will be saved in `milestone{1, 2, 3, 4}`.
 
-All the code will be saved in `src`.
 
 ```
 COLX_523_Group7
